@@ -1,0 +1,196 @@
+"","MLSP_Ei_14"
+"immune response-regulating signaling pathway",7.93539054639437e-242
+"immune response",1.02421276012222e-87
+"antigen processing and presentation of peptide or polysaccharide antigen via MHC class II",1.1301941267491e-46
+"peptide antigen assembly with MHC class II protein complex",4.23729800387901e-39
+"antigen processing and presentation of exogenous peptide antigen via MHC class II",1.54751565120224e-36
+"adaptive immune response",4.28453232191342e-35
+"eosinophil chemotaxis",1.76323372974533e-31
+"positive regulation of immune response",3.7835191925311e-30
+"positive regulation of T cell activation",4.48730476082673e-30
+"signaling",3.48845434326907e-27
+"antimicrobial humoral immune response mediated by antimicrobial peptide",7.26674251499969e-22
+"antigen processing and presentation",2.95674803494998e-21
+"cellular defense response",2.14251110502482e-18
+"collagen-activated signaling pathway",2.31928308901243e-17
+"cell surface receptor signaling pathway",3.97299754380557e-16
+"chemokine-mediated signaling pathway",9.15252350383787e-16
+"interleukin-10-mediated signaling pathway",9.26464632154654e-16
+"antigen processing and presentation of endogenous peptide antigen via MHC class I",6.11607464758619e-15
+"complement activation",1.961072497183e-13
+"peptide transport",1.24894667641001e-12
+"cell communication",3.30660837312988e-11
+"regulation of long-term synaptic potentiation",4.08522497587937e-11
+"acetylcholine receptor signaling pathway",7.267134747802e-11
+"spliceosomal tri-snRNP complex assembly",3.0480399153938e-10
+"positive regulation of interleukin-6 production",8.07666684807779e-10
+"positive regulation of heterotypic cell-cell adhesion",9.25861959625675e-10
+"positive regulation of interleukin-1 beta production",1.92681819036955e-09
+"meiosis I",3.27075958618948e-09
+"tRNA-type intron splice site recognition and cleavage",3.87400331828433e-09
+"negative regulation of interleukin-10 production",1.07375455048205e-08
+"immune system process",1.12598823366941e-08
+"positive regulation of cellular senescence",1.30349789808501e-08
+"microglial cell activation",1.38248363609658e-08
+"ganglioside catabolic process",1.54564446836694e-08
+"necroptotic signaling pathway",3.57282454375299e-08
+"phospholipid metabolic process",4.26636852125081e-08
+"layer formation in cerebral cortex",5.02840681247444e-08
+"peptide cross-linking",7.67035754626878e-08
+"aminoacyl-tRNA metabolism involved in translational fidelity",1.14779773444415e-07
+"negative regulation of miRNA transcription",1.56552654968803e-07
+"positive regulation of cytokine-mediated signaling pathway",2.74666619331414e-07
+"lysosomal transport",3.19748444177947e-07
+"positive regulation of non-canonical NF-kappaB signal transduction",3.66554908869849e-07
+"positive regulation of cell migration",3.7387372523106e-07
+"positive regulation of T cell proliferation",3.74253979436844e-07
+"chemotaxis",5.1225687331118e-07
+"oligosaccharide catabolic process",5.30892650104858e-07
+"positive regulation of calcium ion transport",6.43013698116685e-07
+"complement activation, classical pathway",1.51382734197614e-06
+"NK T cell activation",1.60508245804457e-06
+"thiamine pyrophosphate transmembrane transport",1.68974161003576e-06
+"alpha-tubulin acetylation",1.86729934869798e-06
+"positive regulation of chemokine production",2.06365693093361e-06
+"positive regulation of cyclin-dependent protein serine/threonine kinase activity",2.24502083656797e-06
+"termination of RNA polymerase I transcription",2.3157318257766e-06
+"positive regulation of amyloid-beta formation",2.62846926945371e-06
+"negative regulation of phosphoprotein phosphatase activity",2.9311972268258e-06
+"cellular response to interleukin-6",3.46410995751069e-06
+"mismatch repair",4.0938320002047e-06
+"regulation of stem cell population maintenance",4.19074008714795e-06
+"positive regulation of natural killer cell cytokine production",6.0741095190576e-06
+"negative regulation of natural killer cell mediated cytotoxicity",6.2004051990533e-06
+"cell-cell signaling",6.74659244914014e-06
+"negative regulation of tumor necrosis factor production",7.42617768790761e-06
+"cellular response to type II interferon",7.59048752697927e-06
+"positive regulation of extrinsic apoptotic signaling pathway",9.026029534977e-06
+"tRNA aminoacylation for protein translation",9.32714383990019e-06
+"negative regulation of lipopolysaccharide-mediated signaling pathway",1.49545898934223e-05
+"phosphatidylcholine acyl-chain remodeling",1.59497320563629e-05
+"regulation of p38MAPK cascade",1.62512267737408e-05
+"neutrophil activation",1.7777560334393e-05
+"astrocyte activation",1.7777560334393e-05
+"negative regulation of blood vessel endothelial cell migration",3.004259373017e-05
+"natural killer cell activation",3.9430840193017e-05
+"regulation of triglyceride metabolic process",4.32170655380984e-05
+"cell chemotaxis",4.57482249963513e-05
+"positive regulation of inflammatory response",4.7935808742357e-05
+"inflammatory response",5.0319725410273e-05
+"positive regulation of telomere maintenance in response to DNA damage",5.16676552110242e-05
+"macromolecule depalmitoylation",5.91250472595337e-05
+"tail-anchored membrane protein insertion into ER membrane",6.16929433860407e-05
+"response to amyloid-beta",6.41287843871993e-05
+"regulation of extracellular matrix disassembly",6.91480394343626e-05
+"megakaryocyte differentiation",8.87783468984952e-05
+"positive regulation of interleukin-12 production",9.13491541823193e-05
+"ruffle assembly",9.56780261668528e-05
+"regulation of spontaneous synaptic transmission",9.82090408550453e-05
+"NAD-cap decapping",0.000101445398877191
+"regulation of multicellular organismal process",0.000103960336975644
+"collagen-activated tyrosine kinase receptor signaling pathway",0.000119534685075044
+"positive chemotaxis",0.000135667666892627
+"monocyte chemotaxis",0.000149955078660145
+"phosphatidylinositol acyl-chain remodeling",0.000161476136588694
+"regulation of DNA replication",0.000283107002837586
+"suppression of viral release by host",0.000283107002837586
+"cognition",0.000283963319071003
+"positive regulation of DNA-binding transcription factor activity",0.000287878603645279
+"regulation of developmental process",0.000302617970127637
+"positive regulation of cytokine production",0.000374948657198526
+"positive regulation of platelet aggregation",0.000428858896352203
+"nuclear-transcribed mRNA poly(A) tail shortening",0.000448357615361702
+"complement activation, alternative pathway",0.000448357615361702
+"positive regulation of protein tyrosine kinase activity",0.000448357615361702
+"cellular response to amyloid-beta",0.000464745869881944
+"regulation of embryonic development",0.00046613926832775
+"choline transport",0.000494848571697339
+"positive regulation of osteoclast differentiation",0.000554957525267348
+"high-density lipoprotein particle assembly",0.000562194028403835
+"positive regulation of JUN kinase activity",0.000627553073356768
+"osteoclast differentiation",0.000654111660534944
+"positive regulation of ERAD pathway",0.000682180541022155
+"positive regulation of monocyte chemotaxis",0.000722241769956093
+"positive regulation of smooth muscle cell proliferation",0.000736186736739299
+"tRNA splicing, via endonucleolytic cleavage and ligation",0.000866000106781297
+"defense response",0.00091053840320242
+"positive regulation of cytokine production involved in inflammatory response",0.00091053840320242
+"DNA replication checkpoint signaling",0.00104004558770541
+"T cell mediated immunity",0.00109637327507603
+"regulation of postsynaptic membrane potential",0.00115216075163929
+"positive regulation of protein phosphorylation",0.00155287436536552
+"natural killer cell mediated cytotoxicity",0.00162685009233483
+"positive regulation of cysteine-type endopeptidase activity involved in apoptotic process",0.00169271093617399
+"positive regulation of nitric oxide biosynthetic process",0.00171703582513753
+"regulation of chromosome organization",0.00202001336308039
+"retinal metabolic process",0.00219297289521772
+"phosphatidylinositol biosynthetic process",0.00224043060457539
+"phototransduction",0.00224043060457539
+"protein localization to site of double-strand break",0.00235500548095355
+"zinc ion transport",0.00240971460287822
+"zinc ion transmembrane transport",0.0024893297870253
+"L-leucine catabolic process",0.00310786196764844
+"neuron development",0.00319270849369027
+"peptide hormone processing",0.00372126354538401
+"endothelial tube morphogenesis",0.004611090833159
+"proteolysis involved in protein catabolic process",0.00468906593309633
+"tRNA 5'-leader removal",0.00471835981215009
+"retinoic acid receptor signaling pathway",0.00562201842976622
+"mitochondrial electron transport, NADH to ubiquinone",0.00754059980645687
+"positive regulation of T cell migration",0.00808624059012731
+"spliceosomal complex assembly",0.00808624059012731
+"extrinsic apoptotic signaling pathway via death domain receptors",0.00870712121479826
+"learning or memory",0.00875771478852022
+"embryonic digestive tract development",0.00878193016897547
+"immune response-activating cell surface receptor signaling pathway",0.00881597661627556
+"negative regulation of interleukin-12 production",0.00997785259190668
+"peptidyl-tyrosine autophosphorylation",0.0101689641315637
+"megakaryocyte development",0.0107530105847815
+"high-density lipoprotein particle remodeling",0.0108327422863555
+"Rac protein signal transduction",0.010846017236353
+"gamma-aminobutyric acid signaling pathway",0.0109405467170293
+"negative regulation of proteolysis",0.0117669107244691
+"mitotic intra-S DNA damage checkpoint signaling",0.0118028359804884
+"innate immune response",0.0121684787302713
+"transcription initiation at RNA polymerase II promoter",0.0142250598432624
+"positive regulation of Ras protein signal transduction",0.0153606640427717
+"leukocyte tethering or rolling",0.0161924777030821
+"platelet formation",0.0171805147673755
+"negative regulation of cytokine production",0.0172484608164689
+"negative regulation of transcription elongation by RNA polymerase II",0.0172484608164689
+"biological_process",0.0177502726498137
+"positive regulation of tumor necrosis factor production",0.0177502726498137
+"positive regulation of calcineurin-NFAT signaling cascade",0.0178368929506007
+"synaptonemal complex assembly",0.0182030291107537
+"negative regulation of osteoclast differentiation",0.0185165623999903
+"peptidyl-threonine phosphorylation",0.0189862345413631
+"negative regulation of interleukin-2 production",0.0190099708761653
+"cytoskeleton-dependent intracellular transport",0.0202492609102068
+"glycoprotein catabolic process",0.0215450144729143
+"mitochondrial respiratory chain complex I assembly",0.0238770977508879
+"RNA polymerase II preinitiation complex assembly",0.0238770977508879
+"extrinsic apoptotic signaling pathway",0.0265093534305431
+"positive regulation of p38MAPK cascade",0.0270338716982301
+"cellular response to tumor necrosis factor",0.0276856590343712
+"negative regulation of lipid catabolic process",0.0277744952101956
+"regulation of synapse organization",0.0278148697268118
+"negative regulation of signal transduction",0.0281287108476191
+"negative regulation of cardiac muscle cell apoptotic process",0.0281287108476191
+"negative regulation of long-term synaptic potentiation",0.0283134159631751
+"antiviral innate immune response",0.0290267975491673
+"eye development",0.0291784308437708
+"cellular response to lipopolysaccharide",0.0301885485213742
+"regulation of presynaptic membrane potential",0.0301885485213742
+"phospholipid biosynthetic process",0.0303837368654236
+"reverse cholesterol transport",0.0303837368654236
+"protein localization to chromatin",0.0316355305831731
+"protein K63-linked ubiquitination",0.0316432981675987
+"negative regulation of toll-like receptor signaling pathway",0.0317404011909616
+"protein localization to cell surface",0.0410297796870157
+"CDP-diacylglycerol biosynthetic process",0.0416912412111749
+"regulation of inflammatory response",0.0421454175479175
+"phosphatidylcholine biosynthetic process",0.042792621403077
+"positive regulation of activated T cell proliferation",0.0432918787832139
+"synaptic transmission, GABAergic",0.0456336014922269
+"smooth muscle cell migration",0.0458800030673451
+"chromatin looping",0.0492398024559395

@@ -4,7 +4,7 @@
 ###
 ###
 
-plot(traits.filtered$clog.bodymass, traits.filtered$cBrainMass, main = "Scatterplot of Traits")
+plot(traits.filtered$Maximum.longevity..yrs., traits.filtered$cEi, main = "Scatterplot of Traits")
 plot(traits.filtered$clog.bodymass, traits.filtered$cBrainMass, main = "Scatterplot of Traits")
 boxplot(traits.filtered$Maximum.longevity..yrs., main = "Boxplot of Trait 1")
 

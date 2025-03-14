@@ -1,0 +1,71 @@
+X,AgeCellExp_Neg,AgeCellExp_Pos,Turnover_Neg,Turnover_Pos,AgeExp_Neg,AgeExp_Pos,Apoptosis,Senescence,DNA_Repair,Diet_Resist,Ei_Assoc,Longevity_Var,LifeExt_Drugs,MLSP_Assoc,PM_Longevity
+actin cytoskeleton organization,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.008512429,NA,NA
+adaptive immune response,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.65E-42,2.33E-05,NA,5.16E-36,NA
+angiogenesis,NA,NA,NA,NA,NA,NA,NA,0.014900749,NA,NA,NA,0.019013029,0.002367928,NA,NA
+apoptotic process,0.000273401,NA,0.000536324,NA,NA,NA,2.97E-108,3.54E-12,NA,NA,NA,NA,1.39E-14,NA,NA
+autophagy,NA,NA,NA,NA,NA,NA,6.09E-12,NA,NA,NA,NA,NA,NA,NA,NA
+biological_process,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.003443699,NA,NA,0.004728313,NA
+brain development,NA,NA,NA,NA,NA,NA,NA,0.04795365,NA,NA,NA,NA,NA,NA,NA
+cell adhesion,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.65E-11,8.80E-05,NA,NA
+cell differentiation,NA,NA,NA,NA,NA,NA,NA,0.043550677,NA,NA,NA,NA,0.000189672,NA,NA
+cell division,3.00E-21,NA,5.97E-17,NA,NA,NA,NA,2.89E-06,NA,NA,NA,NA,NA,NA,NA
+cell migration,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8.53E-09,NA,NA
+cell population proliferation,NA,NA,NA,NA,NA,NA,9.41E-09,1.51E-10,NA,NA,NA,0.000155311,5.23E-26,NA,NA
+cell surface receptor signaling pathway,NA,NA,NA,NA,NA,NA,NA,0.030016233,NA,NA,7.27E-10,2.99E-09,2.91E-23,8.34E-17,NA
+cell-cell adhesion,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.023685545,NA,NA
+cell-cell signaling,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.61E-08,NA,NA,2.82E-06,NA
+cellular response to lipopolysaccharide,0.003260469,NA,0.000218612,NA,NA,NA,NA,NA,NA,NA,0.001826876,0.000138457,0.020812367,0.008434902,NA
+chromatin organization,NA,NA,NA,NA,NA,NA,NA,1.12E-13,NA,5.78E-07,NA,NA,0.001202755,NA,NA
+chromatin remodeling,NA,NA,NA,NA,NA,NA,NA,6.58E-23,NA,0.018133355,NA,NA,1.85E-09,NA,NA
+defense response to bacterium,NA,NA,NA,NA,NA,1.53E-05,NA,NA,NA,NA,NA,5.32E-05,NA,NA,NA
+defense response to virus,4.34E-11,NA,1.05E-10,NA,NA,NA,9.85E-13,NA,NA,NA,NA,NA,NA,NA,NA
+DNA damage response,5.64E-10,NA,6.22E-08,NA,NA,NA,5.33E-13,4.47E-22,NA,4.89E-143,NA,0.02996966,1.02E-06,NA,NA
+DNA repair,2.50E-13,NA,4.36E-10,NA,NA,NA,NA,3.39E-14,NA,0,NA,NA,NA,NA,NA
+endocytosis,NA,NA,NA,NA,NA,NA,NA,NA,7.98E-06,NA,NA,NA,0.030072654,NA,NA
+G protein-coupled receptor signaling pathway,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.012011392,NA,NA
+gene expression,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.24E-08,NA,NA
+heart development,NA,NA,NA,NA,NA,NA,4.47E-09,NA,NA,NA,NA,1.01E-06,1.32E-05,NA,NA
+immune response,NA,NA,NA,NA,NA,1.44E-12,NA,NA,NA,NA,1.95E-87,3.79E-22,1.32E-05,5.39E-88,NA
+immune response-regulating signaling pathway,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.36E-269,NA,NA,1.35E-244,NA
+in utero embryonic development,NA,NA,NA,NA,NA,NA,NA,0.045732973,NA,0.018133355,NA,0.00484943,0.000416744,NA,NA
+inflammatory response,NA,NA,NA,NA,NA,1.46E-08,NA,NA,NA,NA,0.00020194,4.59E-42,4.85E-13,1.60E-05,NA
+innate immune response,1.90E-06,NA,6.22E-08,NA,NA,1.53E-05,NA,NA,NA,NA,0.01618267,NA,0.040232829,0.002923508,NA
+intracellular signal transduction,NA,NA,NA,NA,NA,NA,NA,0.001395755,NA,NA,NA,NA,1.91E-22,NA,NA
+lipid metabolic process,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.000120097,NA,NA
+lipid transport,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.15E-05,0.003846849,NA,NA
+monoatomic ion transport,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.024656051,NA,NA
+mRNA processing,NA,NA,NA,NA,NA,NA,NA,0.014900749,NA,NA,NA,NA,NA,NA,NA
+negative regulation of apoptotic process,NA,NA,NA,NA,NA,NA,8.11E-39,1.25E-07,NA,NA,NA,0.010654695,1.15E-17,NA,NA
+negative regulation of cell population proliferation,NA,NA,NA,NA,NA,NA,4.57E-07,3.45E-08,NA,NA,NA,0.000473335,1.70E-15,NA,NA
+negative regulation of DNA-templated transcription,NA,NA,NA,NA,NA,NA,NA,5.83E-11,NA,0.018133355,NA,9.58E-07,0.000416744,NA,NA
+negative regulation of gene expression,NA,NA,NA,NA,NA,NA,1.16E-05,1.25E-42,0.041264951,NA,NA,6.55E-34,8.27E-29,NA,NA
+negative regulation of transcription by RNA polymerase II,NA,NA,NA,NA,NA,NA,0.029596284,2.08E-37,0.000590949,NA,NA,1.15E-05,2.36E-06,NA,NA
+nervous system development,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.74E-07,NA,NA
+neuron differentiation,NA,NA,NA,NA,NA,NA,NA,0.000678079,NA,NA,NA,NA,1.65E-07,NA,NA
+positive regulation of apoptotic process,0.010199307,NA,0.016274126,NA,NA,NA,2.49E-75,NA,NA,NA,NA,1.32E-16,1.77E-08,NA,NA
+positive regulation of canonical NF-kappaB signal transduction,8.73E-14,NA,1.92E-12,NA,NA,NA,1.98E-17,0.044245297,NA,NA,0.005160353,9.55E-20,2.79E-07,0.04054805,NA
+positive regulation of cell migration,NA,NA,NA,NA,NA,NA,NA,0.001174786,NA,NA,5.71E-09,4.85E-06,5.41E-23,7.09E-08,NA
+positive regulation of cell population proliferation,NA,NA,NA,NA,NA,NA,NA,2.77E-06,NA,NA,NA,NA,8.82E-23,NA,NA
+positive regulation of DNA-templated transcription,0.036795325,NA,0.039863132,NA,NA,NA,0.036146648,3.11E-14,0.011082669,NA,NA,2.65E-13,1.48E-14,NA,NA
+positive regulation of ERK1 and ERK2 cascade,NA,NA,NA,NA,NA,NA,NA,0.002074658,NA,NA,NA,4.05E-78,1.49E-25,NA,NA
+positive regulation of gene expression,NA,NA,NA,NA,NA,NA,NA,1.12E-36,NA,NA,NA,3.59E-21,1.38E-09,NA,NA
+positive regulation of MAPK cascade,NA,NA,NA,NA,NA,NA,NA,1.67E-09,NA,NA,NA,3.68E-40,5.62E-09,NA,NA
+positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction,NA,NA,NA,NA,NA,NA,NA,NA,0.001325142,NA,0.035502538,7.51E-48,1.13E-10,NA,NA
+positive regulation of transcription by RNA polymerase II,NA,NA,NA,NA,NA,NA,NA,1.60E-24,NA,NA,NA,9.14E-08,1.56E-26,NA,NA
+proteasome-mediated ubiquitin-dependent protein catabolic process,NA,NA,NA,NA,NA,NA,NA,2.41E-05,NA,NA,NA,NA,NA,NA,NA
+protein phosphorylation,0.021772102,NA,0.040289912,NA,NA,NA,NA,1.18E-28,NA,NA,NA,NA,2.03E-43,NA,NA
+protein stabilization,NA,0.006459761,NA,NA,NA,NA,NA,4.51E-07,NA,0.018133355,NA,NA,5.88E-07,NA,0.001448156
+protein ubiquitination,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.026192098,NA,NA,NA,NA
+regulation of apoptotic process,0.000251003,NA,0.000649497,NA,NA,NA,6.58E-183,8.85E-05,NA,NA,NA,NA,1.63E-10,NA,NA
+regulation of cell cycle,NA,NA,NA,NA,NA,NA,4.26E-25,1.40E-19,NA,0.018133355,NA,NA,1.69E-20,NA,NA
+regulation of DNA-templated transcription,NA,NA,NA,NA,NA,NA,NA,8.31E-14,NA,NA,NA,NA,8.51E-05,NA,NA
+regulation of gene expression,NA,NA,NA,NA,NA,NA,NA,3.26E-23,1.62E-07,NA,NA,NA,6.53E-07,NA,NA
+regulation of transcription by RNA polymerase II,NA,NA,NA,NA,NA,NA,NA,6.58E-23,NA,NA,NA,NA,0.000288701,NA,NA
+response to xenobiotic stimulus,NA,NA,NA,NA,NA,NA,3.58E-12,8.85E-05,5.11E-05,1.88E-09,NA,5.48E-11,1.16E-16,NA,NA
+signal transduction,NA,NA,NA,NA,NA,NA,NA,1.50E-06,NA,NA,NA,0.018226634,4.89E-15,NA,NA
+spermatogenesis,NA,NA,NA,NA,NA,NA,2.28E-09,0.011573921,NA,NA,NA,NA,NA,NA,NA
+spliceosomal tri-snRNP complex assembly,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.13E-12,NA,NA,6.01E-11,NA
+transcription by RNA polymerase II,NA,NA,NA,NA,NA,NA,NA,1.99E-06,NA,4.56E-64,NA,NA,3.36E-06,NA,NA
+transmembrane transport,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.009927271,NA,NA
+ubiquitin-dependent protein catabolic process,NA,NA,NA,NA,NA,NA,NA,NA,0.041264951,NA,NA,NA,NA,NA,NA
+Wnt signaling pathway,NA,NA,NA,NA,NA,NA,NA,4.90E-05,NA,NA,NA,NA,NA,NA,NA

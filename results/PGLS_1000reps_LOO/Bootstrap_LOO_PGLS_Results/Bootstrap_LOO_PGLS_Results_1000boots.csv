@@ -1,0 +1,1001 @@
+"Iteration","Removed_Species","Success","Error_Message"
+1,"Nomascus_leucogenys",FALSE,"non-numeric argument to binary operator"
+2,"Macaca_fascicularis",TRUE,NA
+3,"Peromyscus_maniculatus_bairdii",FALSE,"non-numeric argument to binary operator"
+4,"Macaca_mulatta",TRUE,NA
+5,"Microtus_ochrogaster",FALSE,"non-numeric argument to binary operator"
+6,"Mustela_putorius_furo",FALSE,"non-numeric argument to binary operator"
+7,"Neovison_vison",TRUE,NA
+8,"Neovison_vison",TRUE,NA
+9,"Vombatus_ursinus",FALSE,"non-numeric argument to binary operator"
+10,"Myotis_lucifugus",FALSE,"non-numeric argument to binary operator"
+11,"Mus_musculus",FALSE,"non-numeric argument to binary operator"
+12,"Callithrix_jacchus",FALSE,"non-numeric argument to binary operator"
+13,"Monodelphis_domestica",FALSE,"non-numeric argument to binary operator"
+14,"Saimiri_boliviensis_boliviensis",FALSE,"non-numeric argument to binary operator"
+15,"Tursiops_truncatus",TRUE,NA
+16,"Sus_scrofa",FALSE,"non-numeric argument to binary operator"
+17,"Cavia_porcellus",FALSE,"non-numeric argument to binary operator"
+18,"Vombatus_ursinus",FALSE,"non-numeric argument to binary operator"
+19,"Saimiri_boliviensis_boliviensis",FALSE,"non-numeric argument to binary operator"
+20,"Macaca_mulatta",TRUE,NA
+21,"Peromyscus_maniculatus_bairdii",FALSE,"non-numeric argument to binary operator"
+22,"Capra_hircus",TRUE,NA
+23,"Dasypus_novemcinctus",FALSE,"non-numeric argument to binary operator"
+24,"Peromyscus_maniculatus_bairdii",FALSE,"non-numeric argument to binary operator"
+25,"Pan_troglodytes",FALSE,"non-numeric argument to binary operator"
+26,"Microcebus_murinus",FALSE,"non-numeric argument to binary operator"
+27,"Equus_asinus_asinus",FALSE,"non-numeric argument to binary operator"
+28,"Myotis_lucifugus",FALSE,"non-numeric argument to binary operator"
+29,"Callithrix_jacchus",FALSE,"non-numeric argument to binary operator"
+30,"Mustela_putorius_furo",FALSE,"non-numeric argument to binary operator"
+31,"Cebus_capucinus_imitator",TRUE,NA
+32,"Gorilla_gorilla",FALSE,"non-numeric argument to binary operator"
+33,"Peromyscus_maniculatus_bairdii",FALSE,"non-numeric argument to binary operator"
+34,"Cavia_porcellus",FALSE,"non-numeric argument to binary operator"
+35,"Equus_caballus",FALSE,"non-numeric argument to binary operator"
+36,"Gorilla_gorilla",FALSE,"non-numeric argument to binary operator"
+37,"Oryctolagus_cuniculus",FALSE,"non-numeric argument to binary operator"
+38,"Cebus_capucinus_imitator",TRUE,NA
+39,"Mus_musculus",FALSE,"non-numeric argument to binary operator"
+40,"Saimiri_boliviensis_boliviensis",FALSE,"non-numeric argument to binary operator"
+41,"Pan_troglodytes",FALSE,"non-numeric argument to binary operator"
+42,"Ailuropoda_melanoleuca",TRUE,NA
+43,"Gorilla_gorilla",FALSE,"non-numeric argument to binary operator"
+44,"Monodelphis_domestica",FALSE,"non-numeric argument to binary operator"
+45,"Chinchilla_lanigera",FALSE,"non-numeric argument to binary operator"
+46,"Gorilla_gorilla",FALSE,"non-numeric argument to binary operator"
+47,"Gorilla_gorilla",FALSE,"non-numeric argument to binary operator"
+48,"Papio_anubis",TRUE,NA
+49,"Pan_paniscus",TRUE,NA
+50,"Vulpes_vulpes",FALSE,"non-numeric argument to binary operator"
+51,"Equus_asinus_asinus",FALSE,"non-numeric argument to binary operator"
+52,"Homo_sapiens",FALSE,"non-numeric argument to binary operator"
+53,"Cebus_capucinus_imitator",TRUE,NA
+54,"Vombatus_ursinus",FALSE,"non-numeric argument to binary operator"
+55,"Chinchilla_lanigera",FALSE,"non-numeric argument to binary operator"
+56,"Equus_caballus",FALSE,"non-numeric argument to binary operator"
+57,"Rattus_norvegicus",FALSE,"non-numeric argument to binary operator"
+58,"Myotis_lucifugus",FALSE,"non-numeric argument to binary operator"
+59,"Chinchilla_lanigera",FALSE,"non-numeric argument to binary operator"
+60,"Microcebus_murinus",FALSE,"non-numeric argument to binary operator"
+61,"Papio_anubis",TRUE,NA
+62,"Macaca_nemestrina",TRUE,NA
+63,"Callithrix_jacchus",FALSE,"non-numeric argument to binary operator"
+64,"Otolemur_garnettii",FALSE,"non-numeric argument to binary operator"
+65,"Equus_caballus",FALSE,"non-numeric argument to binary operator"
+66,"Microtus_ochrogaster",FALSE,"non-numeric argument to binary operator"
+67,"Otolemur_garnettii",FALSE,"non-numeric argument to binary operator"
+68,"Pan_troglodytes",FALSE,"non-numeric argument to binary operator"
+69,"Myotis_lucifugus",FALSE,"non-numeric argument to binary operator"
+70,"Ovis_aries",FALSE,"non-numeric argument to binary operator"
+71,"Rattus_norvegicus",FALSE,"non-numeric argument to binary operator"
+72,"Myotis_lucifugus",FALSE,"non-numeric argument to binary operator"
+73,"Saimiri_boliviensis_boliviensis",FALSE,"non-numeric argument to binary operator"
+74,"Callithrix_jacchus",FALSE,"non-numeric argument to binary operator"
+75,"Ovis_aries",FALSE,"non-numeric argument to binary operator"
+76,"Sus_scrofa",FALSE,"non-numeric argument to binary operator"
+77,"Octodon_degus",FALSE,"non-numeric argument to binary operator"
+78,"Mus_musculus",FALSE,"non-numeric argument to binary operator"
+79,"Pan_troglodytes",FALSE,"non-numeric argument to binary operator"
+80,"Heterocephalus_glaber",FALSE,"non-numeric argument to binary operator"
+81,"Macaca_fascicularis",TRUE,NA
+82,"Tursiops_truncatus",TRUE,NA
+83,"Macaca_fascicularis",TRUE,NA
+84,"Octodon_degus",FALSE,"non-numeric argument to binary operator"
+85,"Cavia_porcellus",FALSE,"non-numeric argument to binary operator"
+86,"Equus_asinus_asinus",FALSE,"non-numeric argument to binary operator"
+87,"Gorilla_gorilla",FALSE,"non-numeric argument to binary operator"
+88,"Neovison_vison",TRUE,NA
+89,"Felis_catus",TRUE,NA
+90,"Microtus_ochrogaster",FALSE,"non-numeric argument to binary operator"
+91,"Ictidomys_tridecemlineatus",FALSE,"non-numeric argument to binary operator"
+92,"Gorilla_gorilla",FALSE,"non-numeric argument to binary operator"
+93,"Myotis_lucifugus",FALSE,"non-numeric argument to binary operator"
+94,"Homo_sapiens",FALSE,"non-numeric argument to binary operator"
+95,"Macaca_mulatta",TRUE,NA
+96,"Meriones_unguiculatus",FALSE,"non-numeric argument to binary operator"
+97,"Dasypus_novemcinctus",FALSE,"non-numeric argument to binary operator"
+98,"Pan_paniscus",TRUE,NA
+99,"Microtus_ochrogaster",FALSE,"non-numeric argument to binary operator"
+100,"Oryctolagus_cuniculus",FALSE,"non-numeric argument to binary operator"
+101,"Meriones_unguiculatus",FALSE,"non-numeric argument to binary operator"
+102,"Neovison_vison",TRUE,NA
+103,"Meriones_unguiculatus",FALSE,"non-numeric argument to binary operator"
+104,"Cavia_porcellus",FALSE,"non-numeric argument to binary operator"
+105,"Pan_troglodytes",FALSE,"non-numeric argument to binary operator"
+106,"Mus_musculus",FALSE,"non-numeric argument to binary operator"
+107,"Callithrix_jacchus",FALSE,"non-numeric argument to binary operator"
+108,"Rattus_norvegicus",FALSE,"non-numeric argument to binary operator"
+109,"Meriones_unguiculatus",FALSE,"non-numeric argument to binary operator"
+110,"Heterocephalus_glaber",FALSE,"non-numeric argument to binary operator"
+111,"Saimiri_boliviensis_boliviensis",FALSE,"non-numeric argument to binary operator"
+112,"Sus_scrofa",FALSE,"non-numeric argument to binary operator"
+113,"Ictidomys_tridecemlineatus",FALSE,"non-numeric argument to binary operator"
+114,"Ovis_aries",FALSE,"non-numeric argument to binary operator"
+115,"Sus_scrofa",FALSE,"non-numeric argument to binary operator"
+116,"Mus_musculus",FALSE,"non-numeric argument to binary operator"
+117,"Cavia_porcellus",FALSE,"non-numeric argument to binary operator"
+118,"Rattus_norvegicus",FALSE,"non-numeric argument to binary operator"
+119,"Sus_scrofa",FALSE,"non-numeric argument to binary operator"
+120,"Panthera_pardus",TRUE,NA
+121,"Canis_familiaris",FALSE,"non-numeric argument to binary operator"
+122,"Neovison_vison",TRUE,NA
+123,"Bos_taurus",FALSE,"non-numeric argument to binary operator"
+124,"Cavia_porcellus",FALSE,"non-numeric argument to binary operator"
+125,"Microtus_ochrogaster",FALSE,"non-numeric argument to binary operator"
+126,"Loxodonta_africana",FALSE,"non-numeric argument to binary operator"
+127,"Octodon_degus",FALSE,"non-numeric argument to binary operator"
+128,"Macaca_mulatta",TRUE,NA
+129,"Nomascus_leucogenys",FALSE,"non-numeric argument to binary operator"
+130,"Macaca_mulatta",TRUE,NA
+131,"Papio_anubis",TRUE,NA
+132,"Equus_caballus",FALSE,"non-numeric argument to binary operator"
+133,"Microtus_ochrogaster",FALSE,"non-numeric argument to binary operator"
+134,"Nomascus_leucogenys",FALSE,"non-numeric argument to binary operator"
+135,"Macaca_nemestrina",TRUE,NA
+136,"Phascolarctos_cinereus",FALSE,"non-numeric argument to binary operator"
+137,"Loxodonta_africana",FALSE,"non-numeric argument to binary operator"
+138,"Macaca_mulatta",TRUE,NA
+139,"Rattus_norvegicus",FALSE,"non-numeric argument to binary operator"
+140,"Peromyscus_maniculatus_bairdii",FALSE,"non-numeric argument to binary operator"
+141,"Macaca_mulatta",TRUE,NA
+142,"Sus_scrofa",FALSE,"non-numeric argument to binary operator"
+143,"Vulpes_vulpes",FALSE,"non-numeric argument to binary operator"
+144,"Felis_catus",TRUE,NA
+145,"Rattus_norvegicus",FALSE,"non-numeric argument to binary operator"
+146,"Neovison_vison",TRUE,NA
+147,"Equus_asinus_asinus",FALSE,"non-numeric argument to binary operator"
+148,"Saimiri_boliviensis_boliviensis",FALSE,"non-numeric argument to binary operator"
+149,"Cavia_porcellus",FALSE,"non-numeric argument to binary operator"
+150,"Equus_caballus",FALSE,"non-numeric argument to binary operator"
+151,"Meriones_unguiculatus",FALSE,"non-numeric argument to binary operator"
+152,"Microcebus_murinus",FALSE,"non-numeric argument to binary operator"
+153,"Macaca_mulatta",TRUE,NA
+154,"Nomascus_leucogenys",FALSE,"non-numeric argument to binary operator"
+155,"Macaca_nemestrina",TRUE,NA
+156,"Peromyscus_maniculatus_bairdii",FALSE,"non-numeric argument to binary operator"
+157,"Papio_anubis",TRUE,NA
+158,"Bos_taurus",FALSE,"non-numeric argument to binary operator"
+159,"Colobus_angolensis_palliatus",TRUE,NA
+160,"Ailuropoda_melanoleuca",TRUE,NA
+161,"Nomascus_leucogenys",FALSE,"non-numeric argument to binary operator"
+162,"Bos_taurus",FALSE,"non-numeric argument to binary operator"
+163,"Callithrix_jacchus",FALSE,"non-numeric argument to binary operator"
+164,"Pan_troglodytes",FALSE,"non-numeric argument to binary operator"
+165,"Capra_hircus",TRUE,NA
+166,"Vulpes_vulpes",FALSE,"non-numeric argument to binary operator"
+167,"Mustela_putorius_furo",FALSE,"non-numeric argument to binary operator"
+168,"Mustela_putorius_furo",FALSE,"non-numeric argument to binary operator"
+169,"Vulpes_vulpes",FALSE,"non-numeric argument to binary operator"
+170,"Tursiops_truncatus",TRUE,NA
+171,"Panthera_pardus",TRUE,NA
+172,"Monodelphis_domestica",FALSE,"non-numeric argument to binary operator"
+173,"Papio_anubis",TRUE,NA
+174,"Rattus_norvegicus",FALSE,"non-numeric argument to binary operator"
+175,"Peromyscus_maniculatus_bairdii",FALSE,"non-numeric argument to binary operator"
+176,"Gorilla_gorilla",FALSE,"non-numeric argument to binary operator"
+177,"Papio_anubis",TRUE,NA
+178,"Ailuropoda_melanoleuca",TRUE,NA
+179,"Monodelphis_domestica",FALSE,"non-numeric argument to binary operator"
+180,"Peromyscus_maniculatus_bairdii",FALSE,"non-numeric argument to binary operator"
+181,"Myotis_lucifugus",FALSE,"non-numeric argument to binary operator"
+182,"Canis_familiaris",FALSE,"non-numeric argument to binary operator"
+183,"Colobus_angolensis_palliatus",TRUE,NA
+184,"Meriones_unguiculatus",FALSE,"non-numeric argument to binary operator"
+185,"Cebus_capucinus_imitator",TRUE,NA
+186,"Mustela_putorius_furo",FALSE,"non-numeric argument to binary operator"
+187,"Cavia_porcellus",FALSE,"non-numeric argument to binary operator"
+188,"Microtus_ochrogaster",FALSE,"non-numeric argument to binary operator"
+189,"Sus_scrofa",FALSE,"non-numeric argument to binary operator"
+190,"Papio_anubis",TRUE,NA
+191,"Loxodonta_africana",FALSE,"non-numeric argument to binary operator"
+192,"Mus_musculus",FALSE,"non-numeric argument to binary operator"
+193,"Cebus_capucinus_imitator",TRUE,NA
+194,"Capra_hircus",TRUE,NA
+195,"Dasypus_novemcinctus",FALSE,"non-numeric argument to binary operator"
+196,"Macaca_nemestrina",TRUE,NA
+197,"Otolemur_garnettii",FALSE,"non-numeric argument to binary operator"
+198,"Vombatus_ursinus",FALSE,"non-numeric argument to binary operator"
+199,"Felis_catus",TRUE,NA
+200,"Callithrix_jacchus",FALSE,"non-numeric argument to binary operator"
+201,"Pan_paniscus",TRUE,NA
+202,"Canis_familiaris",FALSE,"non-numeric argument to binary operator"
+203,"Cavia_porcellus",FALSE,"non-numeric argument to binary operator"
+204,"Bos_taurus",FALSE,"non-numeric argument to binary operator"
+205,"Mustela_putorius_furo",FALSE,"non-numeric argument to binary operator"
+206,"Gorilla_gorilla",FALSE,"non-numeric argument to binary operator"
+207,"Capra_hircus",TRUE,NA
+208,"Gorilla_gorilla",FALSE,"non-numeric argument to binary operator"
+209,"Vulpes_vulpes",FALSE,"non-numeric argument to binary operator"
+210,"Equus_caballus",FALSE,"non-numeric argument to binary operator"
+211,"Heterocephalus_glaber",FALSE,"non-numeric argument to binary operator"
+212,"Macaca_mulatta",TRUE,NA
+213,"Macaca_fascicularis",TRUE,NA
+214,"Canis_familiaris",FALSE,"non-numeric argument to binary operator"
+215,"Vombatus_ursinus",FALSE,"non-numeric argument to binary operator"
+216,"Nomascus_leucogenys",FALSE,"non-numeric argument to binary operator"
+217,"Rattus_norvegicus",FALSE,"non-numeric argument to binary operator"
+218,"Mus_musculus",FALSE,"non-numeric argument to binary operator"
+219,"Chinchilla_lanigera",FALSE,"non-numeric argument to binary operator"
+220,"Microtus_ochrogaster",FALSE,"non-numeric argument to binary operator"
+221,"Bos_taurus",FALSE,"non-numeric argument to binary operator"
+222,"Cebus_capucinus_imitator",TRUE,NA
+223,"Nomascus_leucogenys",FALSE,"non-numeric argument to binary operator"
+224,"Gorilla_gorilla",FALSE,"non-numeric argument to binary operator"
+225,"Canis_familiaris",FALSE,"non-numeric argument to binary operator"
+226,"Tursiops_truncatus",TRUE,NA
+227,"Callithrix_jacchus",FALSE,"non-numeric argument to binary operator"
+228,"Loxodonta_africana",FALSE,"non-numeric argument to binary operator"
+229,"Saimiri_boliviensis_boliviensis",FALSE,"non-numeric argument to binary operator"
+230,"Equus_caballus",FALSE,"non-numeric argument to binary operator"
+231,"Neovison_vison",TRUE,NA
+232,"Microtus_ochrogaster",FALSE,"non-numeric argument to binary operator"
+233,"Otolemur_garnettii",FALSE,"non-numeric argument to binary operator"
+234,"Meriones_unguiculatus",FALSE,"non-numeric argument to binary operator"
+235,"Papio_anubis",TRUE,NA
+236,"Macaca_mulatta",TRUE,NA
+237,"Saimiri_boliviensis_boliviensis",FALSE,"non-numeric argument to binary operator"
+238,"Ailuropoda_melanoleuca",TRUE,NA
+239,"Mus_musculus",FALSE,"non-numeric argument to binary operator"
+240,"Capra_hircus",TRUE,NA
+241,"Canis_familiaris",FALSE,"non-numeric argument to binary operator"
+242,"Macaca_nemestrina",TRUE,NA
+243,"Nomascus_leucogenys",FALSE,"non-numeric argument to binary operator"
+244,"Dasypus_novemcinctus",FALSE,"non-numeric argument to binary operator"
+245,"Chinchilla_lanigera",FALSE,"non-numeric argument to binary operator"
+246,"Callithrix_jacchus",FALSE,"non-numeric argument to binary operator"
+247,"Oryctolagus_cuniculus",FALSE,"non-numeric argument to binary operator"
+248,"Vulpes_vulpes",FALSE,"non-numeric argument to binary operator"
+249,"Cavia_porcellus",FALSE,"non-numeric argument to binary operator"
+250,"Vulpes_vulpes",FALSE,"non-numeric argument to binary operator"
+251,"Microcebus_murinus",FALSE,"non-numeric argument to binary operator"
+252,"Ailuropoda_melanoleuca",TRUE,NA
+253,"Microcebus_murinus",FALSE,"non-numeric argument to binary operator"
+254,"Chinchilla_lanigera",FALSE,"non-numeric argument to binary operator"
+255,"Ailuropoda_melanoleuca",TRUE,NA
+256,"Vulpes_vulpes",FALSE,"non-numeric argument to binary operator"
+257,"Oryctolagus_cuniculus",FALSE,"non-numeric argument to binary operator"
+258,"Canis_familiaris",FALSE,"non-numeric argument to binary operator"
+259,"Microtus_ochrogaster",FALSE,"non-numeric argument to binary operator"
+260,"Mustela_putorius_furo",FALSE,"non-numeric argument to binary operator"
+261,"Homo_sapiens",FALSE,"non-numeric argument to binary operator"
+262,"Colobus_angolensis_palliatus",TRUE,NA
+263,"Callithrix_jacchus",FALSE,"non-numeric argument to binary operator"
+264,"Microcebus_murinus",FALSE,"non-numeric argument to binary operator"
+265,"Panthera_pardus",TRUE,NA
+266,"Tursiops_truncatus",TRUE,NA
+267,"Microtus_ochrogaster",FALSE,"non-numeric argument to binary operator"
+268,"Monodelphis_domestica",FALSE,"non-numeric argument to binary operator"
+269,"Microtus_ochrogaster",FALSE,"non-numeric argument to binary operator"
+270,"Gorilla_gorilla",FALSE,"non-numeric argument to binary operator"
+271,"Vombatus_ursinus",FALSE,"non-numeric argument to binary operator"
+272,"Callithrix_jacchus",FALSE,"non-numeric argument to binary operator"
+273,"Pan_paniscus",TRUE,NA
+274,"Myotis_lucifugus",FALSE,"non-numeric argument to binary operator"
+275,"Macaca_nemestrina",TRUE,NA
+276,"Macaca_fascicularis",TRUE,NA
+277,"Dasypus_novemcinctus",FALSE,"non-numeric argument to binary operator"
+278,"Macaca_mulatta",TRUE,NA
+279,"Gorilla_gorilla",FALSE,"non-numeric argument to binary operator"
+280,"Myotis_lucifugus",FALSE,"non-numeric argument to binary operator"
+281,"Neovison_vison",TRUE,NA
+282,"Rattus_norvegicus",FALSE,"non-numeric argument to binary operator"
+283,"Microcebus_murinus",FALSE,"non-numeric argument to binary operator"
+284,"Cavia_porcellus",FALSE,"non-numeric argument to binary operator"
+285,"Pan_troglodytes",FALSE,"non-numeric argument to binary operator"
+286,"Microtus_ochrogaster",FALSE,"non-numeric argument to binary operator"
+287,"Oryctolagus_cuniculus",FALSE,"non-numeric argument to binary operator"
+288,"Peromyscus_maniculatus_bairdii",FALSE,"non-numeric argument to binary operator"
+289,"Felis_catus",TRUE,NA
+290,"Pan_paniscus",TRUE,NA
+291,"Peromyscus_maniculatus_bairdii",FALSE,"non-numeric argument to binary operator"
+292,"Tursiops_truncatus",TRUE,NA
+293,"Otolemur_garnettii",FALSE,"non-numeric argument to binary operator"
+294,"Ovis_aries",FALSE,"non-numeric argument to binary operator"
+295,"Loxodonta_africana",FALSE,"non-numeric argument to binary operator"
+296,"Saimiri_boliviensis_boliviensis",FALSE,"non-numeric argument to binary operator"
+297,"Rattus_norvegicus",FALSE,"non-numeric argument to binary operator"
+298,"Cavia_porcellus",FALSE,"non-numeric argument to binary operator"
+299,"Mustela_putorius_furo",FALSE,"non-numeric argument to binary operator"
+300,"Chinchilla_lanigera",FALSE,"non-numeric argument to binary operator"
+301,"Heterocephalus_glaber",FALSE,"non-numeric argument to binary operator"
+302,"Equus_asinus_asinus",FALSE,"non-numeric argument to binary operator"
+303,"Callithrix_jacchus",FALSE,"non-numeric argument to binary operator"
+304,"Cebus_capucinus_imitator",TRUE,NA
+305,"Macaca_mulatta",TRUE,NA
+306,"Nomascus_leucogenys",FALSE,"non-numeric argument to binary operator"
+307,"Myotis_lucifugus",FALSE,"non-numeric argument to binary operator"
+308,"Canis_familiaris",FALSE,"non-numeric argument to binary operator"
+309,"Microtus_ochrogaster",FALSE,"non-numeric argument to binary operator"
+310,"Bos_taurus",FALSE,"non-numeric argument to binary operator"
+311,"Monodelphis_domestica",FALSE,"non-numeric argument to binary operator"
+312,"Heterocephalus_glaber",FALSE,"non-numeric argument to binary operator"
+313,"Canis_familiaris",FALSE,"non-numeric argument to binary operator"
+314,"Ovis_aries",FALSE,"non-numeric argument to binary operator"
+315,"Macaca_nemestrina",TRUE,NA
+316,"Colobus_angolensis_palliatus",TRUE,NA
+317,"Vulpes_vulpes",FALSE,"non-numeric argument to binary operator"
+318,"Chinchilla_lanigera",FALSE,"non-numeric argument to binary operator"
+319,"Macaca_nemestrina",TRUE,NA
+320,"Nomascus_leucogenys",FALSE,"non-numeric argument to binary operator"
+321,"Macaca_fascicularis",TRUE,NA
+322,"Oryctolagus_cuniculus",FALSE,"non-numeric argument to binary operator"
+323,"Nomascus_leucogenys",FALSE,"non-numeric argument to binary operator"
+324,"Chinchilla_lanigera",FALSE,"non-numeric argument to binary operator"
+325,"Macaca_nemestrina",TRUE,NA
+326,"Mus_musculus",FALSE,"non-numeric argument to binary operator"
+327,"Ovis_aries",FALSE,"non-numeric argument to binary operator"
+328,"Canis_familiaris",FALSE,"non-numeric argument to binary operator"
+329,"Canis_familiaris",FALSE,"non-numeric argument to binary operator"
+330,"Cebus_capucinus_imitator",TRUE,NA
+331,"Cavia_porcellus",FALSE,"non-numeric argument to binary operator"
+332,"Peromyscus_maniculatus_bairdii",FALSE,"non-numeric argument to binary operator"
+333,"Equus_caballus",FALSE,"non-numeric argument to binary operator"
+334,"Saimiri_boliviensis_boliviensis",FALSE,"non-numeric argument to binary operator"
+335,"Vombatus_ursinus",FALSE,"non-numeric argument to binary operator"
+336,"Pan_paniscus",TRUE,NA
+337,"Otolemur_garnettii",FALSE,"non-numeric argument to binary operator"
+338,"Macaca_fascicularis",TRUE,NA
+339,"Tursiops_truncatus",TRUE,NA
+340,"Sus_scrofa",FALSE,"non-numeric argument to binary operator"
+341,"Chinchilla_lanigera",FALSE,"non-numeric argument to binary operator"
+342,"Chinchilla_lanigera",FALSE,"non-numeric argument to binary operator"
+343,"Meriones_unguiculatus",FALSE,"non-numeric argument to binary operator"
+344,"Pan_paniscus",TRUE,NA
+345,"Loxodonta_africana",FALSE,"non-numeric argument to binary operator"
+346,"Mus_musculus",FALSE,"non-numeric argument to binary operator"
+347,"Peromyscus_maniculatus_bairdii",FALSE,"non-numeric argument to binary operator"
+348,"Loxodonta_africana",FALSE,"non-numeric argument to binary operator"
+349,"Colobus_angolensis_palliatus",TRUE,NA
+350,"Vombatus_ursinus",FALSE,"non-numeric argument to binary operator"
+351,"Phascolarctos_cinereus",FALSE,"non-numeric argument to binary operator"
+352,"Pan_paniscus",TRUE,NA
+353,"Rattus_norvegicus",FALSE,"non-numeric argument to binary operator"
+354,"Tursiops_truncatus",TRUE,NA
+355,"Loxodonta_africana",FALSE,"non-numeric argument to binary operator"
+356,"Dasypus_novemcinctus",FALSE,"non-numeric argument to binary operator"
+357,"Meriones_unguiculatus",FALSE,"non-numeric argument to binary operator"
+358,"Tursiops_truncatus",TRUE,NA
+359,"Dasypus_novemcinctus",FALSE,"non-numeric argument to binary operator"
+360,"Meriones_unguiculatus",FALSE,"non-numeric argument to binary operator"
+361,"Macaca_mulatta",TRUE,NA
+362,"Ovis_aries",FALSE,"non-numeric argument to binary operator"
+363,"Otolemur_garnettii",FALSE,"non-numeric argument to binary operator"
+364,"Gorilla_gorilla",FALSE,"non-numeric argument to binary operator"
+365,"Loxodonta_africana",FALSE,"non-numeric argument to binary operator"
+366,"Rattus_norvegicus",FALSE,"non-numeric argument to binary operator"
+367,"Macaca_mulatta",TRUE,NA
+368,"Monodelphis_domestica",FALSE,"non-numeric argument to binary operator"
+369,"Panthera_pardus",TRUE,NA
+370,"Equus_caballus",FALSE,"non-numeric argument to binary operator"
+371,"Dasypus_novemcinctus",FALSE,"non-numeric argument to binary operator"
+372,"Saimiri_boliviensis_boliviensis",FALSE,"non-numeric argument to binary operator"
+373,"Cavia_porcellus",FALSE,"non-numeric argument to binary operator"
+374,"Phascolarctos_cinereus",FALSE,"non-numeric argument to binary operator"
+375,"Vombatus_ursinus",FALSE,"non-numeric argument to binary operator"
+376,"Nomascus_leucogenys",FALSE,"non-numeric argument to binary operator"
+377,"Macaca_nemestrina",TRUE,NA
+378,"Ailuropoda_melanoleuca",TRUE,NA
+379,"Cavia_porcellus",FALSE,"non-numeric argument to binary operator"
+380,"Gorilla_gorilla",FALSE,"non-numeric argument to binary operator"
+381,"Phascolarctos_cinereus",FALSE,"non-numeric argument to binary operator"
+382,"Chinchilla_lanigera",FALSE,"non-numeric argument to binary operator"
+383,"Gorilla_gorilla",FALSE,"non-numeric argument to binary operator"
+384,"Homo_sapiens",FALSE,"non-numeric argument to binary operator"
+385,"Ailuropoda_melanoleuca",TRUE,NA
+386,"Colobus_angolensis_palliatus",TRUE,NA
+387,"Cebus_capucinus_imitator",TRUE,NA
+388,"Bos_taurus",FALSE,"non-numeric argument to binary operator"
+389,"Tursiops_truncatus",TRUE,NA
+390,"Colobus_angolensis_palliatus",TRUE,NA
+391,"Homo_sapiens",FALSE,"non-numeric argument to binary operator"
+392,"Monodelphis_domestica",FALSE,"non-numeric argument to binary operator"
+393,"Canis_familiaris",FALSE,"non-numeric argument to binary operator"
+394,"Equus_asinus_asinus",FALSE,"non-numeric argument to binary operator"
+395,"Ovis_aries",FALSE,"non-numeric argument to binary operator"
+396,"Macaca_nemestrina",TRUE,NA
+397,"Capra_hircus",TRUE,NA
+398,"Octodon_degus",FALSE,"non-numeric argument to binary operator"
+399,"Mus_musculus",FALSE,"non-numeric argument to binary operator"
+400,"Macaca_mulatta",TRUE,NA
+401,"Pan_paniscus",TRUE,NA
+402,"Oryctolagus_cuniculus",FALSE,"non-numeric argument to binary operator"
+403,"Papio_anubis",TRUE,NA
+404,"Macaca_mulatta",TRUE,NA
+405,"Bos_taurus",FALSE,"non-numeric argument to binary operator"
+406,"Ailuropoda_melanoleuca",TRUE,NA
+407,"Cavia_porcellus",FALSE,"non-numeric argument to binary operator"
+408,"Mustela_putorius_furo",FALSE,"non-numeric argument to binary operator"
+409,"Papio_anubis",TRUE,NA
+410,"Pan_paniscus",TRUE,NA
+411,"Heterocephalus_glaber",FALSE,"non-numeric argument to binary operator"
+412,"Macaca_mulatta",TRUE,NA
+413,"Colobus_angolensis_palliatus",TRUE,NA
+414,"Saimiri_boliviensis_boliviensis",FALSE,"non-numeric argument to binary operator"
+415,"Macaca_mulatta",TRUE,NA
+416,"Loxodonta_africana",FALSE,"non-numeric argument to binary operator"
+417,"Mustela_putorius_furo",FALSE,"non-numeric argument to binary operator"
+418,"Equus_caballus",FALSE,"non-numeric argument to binary operator"
+419,"Colobus_angolensis_palliatus",TRUE,NA
+420,"Bos_taurus",FALSE,"non-numeric argument to binary operator"
+421,"Mus_musculus",FALSE,"non-numeric argument to binary operator"
+422,"Ailuropoda_melanoleuca",TRUE,NA
+423,"Microtus_ochrogaster",FALSE,"non-numeric argument to binary operator"
+424,"Colobus_angolensis_palliatus",TRUE,NA
+425,"Bos_taurus",FALSE,"non-numeric argument to binary operator"
+426,"Peromyscus_maniculatus_bairdii",FALSE,"non-numeric argument to binary operator"
+427,"Microcebus_murinus",FALSE,"non-numeric argument to binary operator"
+428,"Phascolarctos_cinereus",FALSE,"non-numeric argument to binary operator"
+429,"Peromyscus_maniculatus_bairdii",FALSE,"non-numeric argument to binary operator"
+430,"Neovison_vison",TRUE,NA
+431,"Ictidomys_tridecemlineatus",FALSE,"non-numeric argument to binary operator"
+432,"Meriones_unguiculatus",FALSE,"non-numeric argument to binary operator"
+433,"Bos_taurus",FALSE,"non-numeric argument to binary operator"
+434,"Homo_sapiens",FALSE,"non-numeric argument to binary operator"
+435,"Oryctolagus_cuniculus",FALSE,"non-numeric argument to binary operator"
+436,"Myotis_lucifugus",FALSE,"non-numeric argument to binary operator"
+437,"Colobus_angolensis_palliatus",TRUE,NA
+438,"Monodelphis_domestica",FALSE,"non-numeric argument to binary operator"
+439,"Panthera_pardus",TRUE,NA
+440,"Peromyscus_maniculatus_bairdii",FALSE,"non-numeric argument to binary operator"
+441,"Vombatus_ursinus",FALSE,"non-numeric argument to binary operator"
+442,"Macaca_mulatta",TRUE,NA
+443,"Homo_sapiens",FALSE,"non-numeric argument to binary operator"
+444,"Canis_familiaris",FALSE,"non-numeric argument to binary operator"
+445,"Microtus_ochrogaster",FALSE,"non-numeric argument to binary operator"
+446,"Bos_taurus",FALSE,"non-numeric argument to binary operator"
+447,"Macaca_mulatta",TRUE,NA
+448,"Loxodonta_africana",FALSE,"non-numeric argument to binary operator"
+449,"Octodon_degus",FALSE,"non-numeric argument to binary operator"
+450,"Peromyscus_maniculatus_bairdii",FALSE,"non-numeric argument to binary operator"
+451,"Peromyscus_maniculatus_bairdii",FALSE,"non-numeric argument to binary operator"
+452,"Nomascus_leucogenys",FALSE,"non-numeric argument to binary operator"
+453,"Ovis_aries",FALSE,"non-numeric argument to binary operator"
+454,"Cebus_capucinus_imitator",TRUE,NA
+455,"Cebus_capucinus_imitator",TRUE,NA
+456,"Macaca_fascicularis",TRUE,NA
+457,"Ictidomys_tridecemlineatus",FALSE,"non-numeric argument to binary operator"
+458,"Pan_paniscus",TRUE,NA
+459,"Callithrix_jacchus",FALSE,"non-numeric argument to binary operator"
+460,"Callithrix_jacchus",FALSE,"non-numeric argument to binary operator"
+461,"Ovis_aries",FALSE,"non-numeric argument to binary operator"
+462,"Sus_scrofa",FALSE,"non-numeric argument to binary operator"
+463,"Meriones_unguiculatus",FALSE,"non-numeric argument to binary operator"
+464,"Cavia_porcellus",FALSE,"non-numeric argument to binary operator"
+465,"Panthera_pardus",TRUE,NA
+466,"Loxodonta_africana",FALSE,"non-numeric argument to binary operator"
+467,"Oryctolagus_cuniculus",FALSE,"non-numeric argument to binary operator"
+468,"Equus_caballus",FALSE,"non-numeric argument to binary operator"
+469,"Otolemur_garnettii",FALSE,"non-numeric argument to binary operator"
+470,"Pan_troglodytes",FALSE,"non-numeric argument to binary operator"
+471,"Canis_familiaris",FALSE,"non-numeric argument to binary operator"
+472,"Loxodonta_africana",FALSE,"non-numeric argument to binary operator"
+473,"Saimiri_boliviensis_boliviensis",FALSE,"non-numeric argument to binary operator"
+474,"Equus_asinus_asinus",FALSE,"non-numeric argument to binary operator"
+475,"Panthera_pardus",TRUE,NA
+476,"Homo_sapiens",FALSE,"non-numeric argument to binary operator"
+477,"Ovis_aries",FALSE,"non-numeric argument to binary operator"
+478,"Octodon_degus",FALSE,"non-numeric argument to binary operator"
+479,"Homo_sapiens",FALSE,"non-numeric argument to binary operator"
+480,"Cebus_capucinus_imitator",TRUE,NA
+481,"Phascolarctos_cinereus",FALSE,"non-numeric argument to binary operator"
+482,"Gorilla_gorilla",FALSE,"non-numeric argument to binary operator"
+483,"Capra_hircus",TRUE,NA
+484,"Mustela_putorius_furo",FALSE,"non-numeric argument to binary operator"
+485,"Pan_paniscus",TRUE,NA
+486,"Oryctolagus_cuniculus",FALSE,"non-numeric argument to binary operator"
+487,"Cavia_porcellus",FALSE,"non-numeric argument to binary operator"
+488,"Canis_familiaris",FALSE,"non-numeric argument to binary operator"
+489,"Capra_hircus",TRUE,NA
+490,"Mus_musculus",FALSE,"non-numeric argument to binary operator"
+491,"Peromyscus_maniculatus_bairdii",FALSE,"non-numeric argument to binary operator"
+492,"Ictidomys_tridecemlineatus",FALSE,"non-numeric argument to binary operator"
+493,"Neovison_vison",TRUE,NA
+494,"Meriones_unguiculatus",FALSE,"non-numeric argument to binary operator"
+495,"Saimiri_boliviensis_boliviensis",FALSE,"non-numeric argument to binary operator"
+496,"Macaca_fascicularis",TRUE,NA
+497,"Nomascus_leucogenys",FALSE,"non-numeric argument to binary operator"
+498,"Saimiri_boliviensis_boliviensis",FALSE,"non-numeric argument to binary operator"
+499,"Mustela_putorius_furo",FALSE,"non-numeric argument to binary operator"
+500,"Sus_scrofa",FALSE,"non-numeric argument to binary operator"
+501,"Monodelphis_domestica",FALSE,"non-numeric argument to binary operator"
+502,"Gorilla_gorilla",FALSE,"non-numeric argument to binary operator"
+503,"Macaca_fascicularis",TRUE,NA
+504,"Microcebus_murinus",FALSE,"non-numeric argument to binary operator"
+505,"Pan_troglodytes",FALSE,"non-numeric argument to binary operator"
+506,"Dasypus_novemcinctus",FALSE,"non-numeric argument to binary operator"
+507,"Sus_scrofa",FALSE,"non-numeric argument to binary operator"
+508,"Ovis_aries",FALSE,"non-numeric argument to binary operator"
+509,"Callithrix_jacchus",FALSE,"non-numeric argument to binary operator"
+510,"Peromyscus_maniculatus_bairdii",FALSE,"non-numeric argument to binary operator"
+511,"Macaca_nemestrina",TRUE,NA
+512,"Neovison_vison",TRUE,NA
+513,"Vombatus_ursinus",FALSE,"non-numeric argument to binary operator"
+514,"Myotis_lucifugus",FALSE,"non-numeric argument to binary operator"
+515,"Saimiri_boliviensis_boliviensis",FALSE,"non-numeric argument to binary operator"
+516,"Loxodonta_africana",FALSE,"non-numeric argument to binary operator"
+517,"Pan_paniscus",TRUE,NA
+518,"Rattus_norvegicus",FALSE,"non-numeric argument to binary operator"
+519,"Meriones_unguiculatus",FALSE,"non-numeric argument to binary operator"
+520,"Felis_catus",TRUE,NA
+521,"Ovis_aries",FALSE,"non-numeric argument to binary operator"
+522,"Ovis_aries",FALSE,"non-numeric argument to binary operator"
+523,"Bos_taurus",FALSE,"non-numeric argument to binary operator"
+524,"Pan_troglodytes",FALSE,"non-numeric argument to binary operator"
+525,"Mustela_putorius_furo",FALSE,"non-numeric argument to binary operator"
+526,"Pan_troglodytes",FALSE,"non-numeric argument to binary operator"
+527,"Cavia_porcellus",FALSE,"non-numeric argument to binary operator"
+528,"Microcebus_murinus",FALSE,"non-numeric argument to binary operator"
+529,"Neovison_vison",TRUE,NA
+530,"Tursiops_truncatus",TRUE,NA
+531,"Microcebus_murinus",FALSE,"non-numeric argument to binary operator"
+532,"Mus_musculus",FALSE,"non-numeric argument to binary operator"
+533,"Nomascus_leucogenys",FALSE,"non-numeric argument to binary operator"
+534,"Papio_anubis",TRUE,NA
+535,"Ailuropoda_melanoleuca",TRUE,NA
+536,"Ailuropoda_melanoleuca",TRUE,NA
+537,"Microtus_ochrogaster",FALSE,"non-numeric argument to binary operator"
+538,"Octodon_degus",FALSE,"non-numeric argument to binary operator"
+539,"Macaca_fascicularis",TRUE,NA
+540,"Nomascus_leucogenys",FALSE,"non-numeric argument to binary operator"
+541,"Colobus_angolensis_palliatus",TRUE,NA
+542,"Canis_familiaris",FALSE,"non-numeric argument to binary operator"
+543,"Sus_scrofa",FALSE,"non-numeric argument to binary operator"
+544,"Felis_catus",TRUE,NA
+545,"Panthera_pardus",TRUE,NA
+546,"Meriones_unguiculatus",FALSE,"non-numeric argument to binary operator"
+547,"Ovis_aries",FALSE,"non-numeric argument to binary operator"
+548,"Dasypus_novemcinctus",FALSE,"non-numeric argument to binary operator"
+549,"Octodon_degus",FALSE,"non-numeric argument to binary operator"
+550,"Nomascus_leucogenys",FALSE,"non-numeric argument to binary operator"
+551,"Macaca_nemestrina",TRUE,NA
+552,"Nomascus_leucogenys",FALSE,"non-numeric argument to binary operator"
+553,"Tursiops_truncatus",TRUE,NA
+554,"Loxodonta_africana",FALSE,"non-numeric argument to binary operator"
+555,"Tursiops_truncatus",TRUE,NA
+556,"Ovis_aries",FALSE,"non-numeric argument to binary operator"
+557,"Canis_familiaris",FALSE,"non-numeric argument to binary operator"
+558,"Nomascus_leucogenys",FALSE,"non-numeric argument to binary operator"
+559,"Macaca_nemestrina",TRUE,NA
+560,"Loxodonta_africana",FALSE,"non-numeric argument to binary operator"
+561,"Monodelphis_domestica",FALSE,"non-numeric argument to binary operator"
+562,"Papio_anubis",TRUE,NA
+563,"Rattus_norvegicus",FALSE,"non-numeric argument to binary operator"
+564,"Mustela_putorius_furo",FALSE,"non-numeric argument to binary operator"
+565,"Felis_catus",TRUE,NA
+566,"Rattus_norvegicus",FALSE,"non-numeric argument to binary operator"
+567,"Felis_catus",TRUE,NA
+568,"Mus_musculus",FALSE,"non-numeric argument to binary operator"
+569,"Monodelphis_domestica",FALSE,"non-numeric argument to binary operator"
+570,"Rattus_norvegicus",FALSE,"non-numeric argument to binary operator"
+571,"Cavia_porcellus",FALSE,"non-numeric argument to binary operator"
+572,"Canis_familiaris",FALSE,"non-numeric argument to binary operator"
+573,"Nomascus_leucogenys",FALSE,"non-numeric argument to binary operator"
+574,"Pan_troglodytes",FALSE,"non-numeric argument to binary operator"
+575,"Oryctolagus_cuniculus",FALSE,"non-numeric argument to binary operator"
+576,"Rattus_norvegicus",FALSE,"non-numeric argument to binary operator"
+577,"Felis_catus",TRUE,NA
+578,"Panthera_pardus",TRUE,NA
+579,"Gorilla_gorilla",FALSE,"non-numeric argument to binary operator"
+580,"Microtus_ochrogaster",FALSE,"non-numeric argument to binary operator"
+581,"Microcebus_murinus",FALSE,"non-numeric argument to binary operator"
+582,"Rattus_norvegicus",FALSE,"non-numeric argument to binary operator"
+583,"Colobus_angolensis_palliatus",TRUE,NA
+584,"Macaca_mulatta",TRUE,NA
+585,"Heterocephalus_glaber",FALSE,"non-numeric argument to binary operator"
+586,"Equus_caballus",FALSE,"non-numeric argument to binary operator"
+587,"Homo_sapiens",FALSE,"non-numeric argument to binary operator"
+588,"Tursiops_truncatus",TRUE,NA
+589,"Equus_asinus_asinus",FALSE,"non-numeric argument to binary operator"
+590,"Tursiops_truncatus",TRUE,NA
+591,"Meriones_unguiculatus",FALSE,"non-numeric argument to binary operator"
+592,"Octodon_degus",FALSE,"non-numeric argument to binary operator"
+593,"Dasypus_novemcinctus",FALSE,"non-numeric argument to binary operator"
+594,"Papio_anubis",TRUE,NA
+595,"Papio_anubis",TRUE,NA
+596,"Peromyscus_maniculatus_bairdii",FALSE,"non-numeric argument to binary operator"
+597,"Callithrix_jacchus",FALSE,"non-numeric argument to binary operator"
+598,"Vombatus_ursinus",FALSE,"non-numeric argument to binary operator"
+599,"Ictidomys_tridecemlineatus",FALSE,"non-numeric argument to binary operator"
+600,"Macaca_mulatta",TRUE,NA
+601,"Canis_familiaris",FALSE,"non-numeric argument to binary operator"
+602,"Loxodonta_africana",FALSE,"non-numeric argument to binary operator"
+603,"Otolemur_garnettii",FALSE,"non-numeric argument to binary operator"
+604,"Oryctolagus_cuniculus",FALSE,"non-numeric argument to binary operator"
+605,"Gorilla_gorilla",FALSE,"non-numeric argument to binary operator"
+606,"Loxodonta_africana",FALSE,"non-numeric argument to binary operator"
+607,"Otolemur_garnettii",FALSE,"non-numeric argument to binary operator"
+608,"Myotis_lucifugus",FALSE,"non-numeric argument to binary operator"
+609,"Macaca_fascicularis",TRUE,NA
+610,"Macaca_nemestrina",TRUE,NA
+611,"Callithrix_jacchus",FALSE,"non-numeric argument to binary operator"
+612,"Macaca_nemestrina",TRUE,NA
+613,"Macaca_fascicularis",TRUE,NA
+614,"Mus_musculus",FALSE,"non-numeric argument to binary operator"
+615,"Nomascus_leucogenys",FALSE,"non-numeric argument to binary operator"
+616,"Callithrix_jacchus",FALSE,"non-numeric argument to binary operator"
+617,"Saimiri_boliviensis_boliviensis",FALSE,"non-numeric argument to binary operator"
+618,"Equus_asinus_asinus",FALSE,"non-numeric argument to binary operator"
+619,"Mustela_putorius_furo",FALSE,"non-numeric argument to binary operator"
+620,"Microcebus_murinus",FALSE,"non-numeric argument to binary operator"
+621,"Vulpes_vulpes",FALSE,"non-numeric argument to binary operator"
+622,"Phascolarctos_cinereus",FALSE,"non-numeric argument to binary operator"
+623,"Felis_catus",TRUE,NA
+624,"Callithrix_jacchus",FALSE,"non-numeric argument to binary operator"
+625,"Colobus_angolensis_palliatus",TRUE,NA
+626,"Equus_caballus",FALSE,"non-numeric argument to binary operator"
+627,"Peromyscus_maniculatus_bairdii",FALSE,"non-numeric argument to binary operator"
+628,"Vulpes_vulpes",FALSE,"non-numeric argument to binary operator"
+629,"Ailuropoda_melanoleuca",TRUE,NA
+630,"Tursiops_truncatus",TRUE,NA
+631,"Ictidomys_tridecemlineatus",FALSE,"non-numeric argument to binary operator"
+632,"Equus_caballus",FALSE,"non-numeric argument to binary operator"
+633,"Bos_taurus",FALSE,"non-numeric argument to binary operator"
+634,"Felis_catus",TRUE,NA
+635,"Gorilla_gorilla",FALSE,"non-numeric argument to binary operator"
+636,"Neovison_vison",TRUE,NA
+637,"Phascolarctos_cinereus",FALSE,"non-numeric argument to binary operator"
+638,"Panthera_pardus",TRUE,NA
+639,"Otolemur_garnettii",FALSE,"non-numeric argument to binary operator"
+640,"Saimiri_boliviensis_boliviensis",FALSE,"non-numeric argument to binary operator"
+641,"Ailuropoda_melanoleuca",TRUE,NA
+642,"Rattus_norvegicus",FALSE,"non-numeric argument to binary operator"
+643,"Meriones_unguiculatus",FALSE,"non-numeric argument to binary operator"
+644,"Cavia_porcellus",FALSE,"non-numeric argument to binary operator"
+645,"Equus_asinus_asinus",FALSE,"non-numeric argument to binary operator"
+646,"Meriones_unguiculatus",FALSE,"non-numeric argument to binary operator"
+647,"Macaca_mulatta",TRUE,NA
+648,"Equus_asinus_asinus",FALSE,"non-numeric argument to binary operator"
+649,"Loxodonta_africana",FALSE,"non-numeric argument to binary operator"
+650,"Octodon_degus",FALSE,"non-numeric argument to binary operator"
+651,"Equus_asinus_asinus",FALSE,"non-numeric argument to binary operator"
+652,"Colobus_angolensis_palliatus",TRUE,NA
+653,"Colobus_angolensis_palliatus",TRUE,NA
+654,"Microcebus_murinus",FALSE,"non-numeric argument to binary operator"
+655,"Panthera_pardus",TRUE,NA
+656,"Felis_catus",TRUE,NA
+657,"Callithrix_jacchus",FALSE,"non-numeric argument to binary operator"
+658,"Chinchilla_lanigera",FALSE,"non-numeric argument to binary operator"
+659,"Bos_taurus",FALSE,"non-numeric argument to binary operator"
+660,"Canis_familiaris",FALSE,"non-numeric argument to binary operator"
+661,"Mus_musculus",FALSE,"non-numeric argument to binary operator"
+662,"Bos_taurus",FALSE,"non-numeric argument to binary operator"
+663,"Equus_caballus",FALSE,"non-numeric argument to binary operator"
+664,"Heterocephalus_glaber",FALSE,"non-numeric argument to binary operator"
+665,"Ailuropoda_melanoleuca",TRUE,NA
+666,"Macaca_mulatta",TRUE,NA
+667,"Saimiri_boliviensis_boliviensis",FALSE,"non-numeric argument to binary operator"
+668,"Phascolarctos_cinereus",FALSE,"non-numeric argument to binary operator"
+669,"Cavia_porcellus",FALSE,"non-numeric argument to binary operator"
+670,"Cebus_capucinus_imitator",TRUE,NA
+671,"Colobus_angolensis_palliatus",TRUE,NA
+672,"Mustela_putorius_furo",FALSE,"non-numeric argument to binary operator"
+673,"Microtus_ochrogaster",FALSE,"non-numeric argument to binary operator"
+674,"Tursiops_truncatus",TRUE,NA
+675,"Cavia_porcellus",FALSE,"non-numeric argument to binary operator"
+676,"Canis_familiaris",FALSE,"non-numeric argument to binary operator"
+677,"Cebus_capucinus_imitator",TRUE,NA
+678,"Chinchilla_lanigera",FALSE,"non-numeric argument to binary operator"
+679,"Gorilla_gorilla",FALSE,"non-numeric argument to binary operator"
+680,"Cebus_capucinus_imitator",TRUE,NA
+681,"Gorilla_gorilla",FALSE,"non-numeric argument to binary operator"
+682,"Colobus_angolensis_palliatus",TRUE,NA
+683,"Macaca_nemestrina",TRUE,NA
+684,"Microcebus_murinus",FALSE,"non-numeric argument to binary operator"
+685,"Mustela_putorius_furo",FALSE,"non-numeric argument to binary operator"
+686,"Monodelphis_domestica",FALSE,"non-numeric argument to binary operator"
+687,"Otolemur_garnettii",FALSE,"non-numeric argument to binary operator"
+688,"Panthera_pardus",TRUE,NA
+689,"Ictidomys_tridecemlineatus",FALSE,"non-numeric argument to binary operator"
+690,"Monodelphis_domestica",FALSE,"non-numeric argument to binary operator"
+691,"Cavia_porcellus",FALSE,"non-numeric argument to binary operator"
+692,"Equus_caballus",FALSE,"non-numeric argument to binary operator"
+693,"Rattus_norvegicus",FALSE,"non-numeric argument to binary operator"
+694,"Dasypus_novemcinctus",FALSE,"non-numeric argument to binary operator"
+695,"Myotis_lucifugus",FALSE,"non-numeric argument to binary operator"
+696,"Capra_hircus",TRUE,NA
+697,"Cebus_capucinus_imitator",TRUE,NA
+698,"Myotis_lucifugus",FALSE,"non-numeric argument to binary operator"
+699,"Rattus_norvegicus",FALSE,"non-numeric argument to binary operator"
+700,"Chinchilla_lanigera",FALSE,"non-numeric argument to binary operator"
+701,"Microtus_ochrogaster",FALSE,"non-numeric argument to binary operator"
+702,"Sus_scrofa",FALSE,"non-numeric argument to binary operator"
+703,"Pan_troglodytes",FALSE,"non-numeric argument to binary operator"
+704,"Cavia_porcellus",FALSE,"non-numeric argument to binary operator"
+705,"Mustela_putorius_furo",FALSE,"non-numeric argument to binary operator"
+706,"Peromyscus_maniculatus_bairdii",FALSE,"non-numeric argument to binary operator"
+707,"Vombatus_ursinus",FALSE,"non-numeric argument to binary operator"
+708,"Neovison_vison",TRUE,NA
+709,"Meriones_unguiculatus",FALSE,"non-numeric argument to binary operator"
+710,"Peromyscus_maniculatus_bairdii",FALSE,"non-numeric argument to binary operator"
+711,"Cavia_porcellus",FALSE,"non-numeric argument to binary operator"
+712,"Octodon_degus",FALSE,"non-numeric argument to binary operator"
+713,"Microtus_ochrogaster",FALSE,"non-numeric argument to binary operator"
+714,"Equus_asinus_asinus",FALSE,"non-numeric argument to binary operator"
+715,"Ovis_aries",FALSE,"non-numeric argument to binary operator"
+716,"Sus_scrofa",FALSE,"non-numeric argument to binary operator"
+717,"Microcebus_murinus",FALSE,"non-numeric argument to binary operator"
+718,"Felis_catus",TRUE,NA
+719,"Equus_caballus",FALSE,"non-numeric argument to binary operator"
+720,"Capra_hircus",TRUE,NA
+721,"Macaca_nemestrina",TRUE,NA
+722,"Callithrix_jacchus",FALSE,"non-numeric argument to binary operator"
+723,"Macaca_mulatta",TRUE,NA
+724,"Nomascus_leucogenys",FALSE,"non-numeric argument to binary operator"
+725,"Pan_troglodytes",FALSE,"non-numeric argument to binary operator"
+726,"Octodon_degus",FALSE,"non-numeric argument to binary operator"
+727,"Cavia_porcellus",FALSE,"non-numeric argument to binary operator"
+728,"Canis_familiaris",FALSE,"non-numeric argument to binary operator"
+729,"Ictidomys_tridecemlineatus",FALSE,"non-numeric argument to binary operator"
+730,"Saimiri_boliviensis_boliviensis",FALSE,"non-numeric argument to binary operator"
+731,"Sus_scrofa",FALSE,"non-numeric argument to binary operator"
+732,"Equus_asinus_asinus",FALSE,"non-numeric argument to binary operator"
+733,"Vombatus_ursinus",FALSE,"non-numeric argument to binary operator"
+734,"Callithrix_jacchus",FALSE,"non-numeric argument to binary operator"
+735,"Vombatus_ursinus",FALSE,"non-numeric argument to binary operator"
+736,"Peromyscus_maniculatus_bairdii",FALSE,"non-numeric argument to binary operator"
+737,"Cebus_capucinus_imitator",TRUE,NA
+738,"Vombatus_ursinus",FALSE,"non-numeric argument to binary operator"
+739,"Panthera_pardus",TRUE,NA
+740,"Ailuropoda_melanoleuca",TRUE,NA
+741,"Otolemur_garnettii",FALSE,"non-numeric argument to binary operator"
+742,"Mustela_putorius_furo",FALSE,"non-numeric argument to binary operator"
+743,"Dasypus_novemcinctus",FALSE,"non-numeric argument to binary operator"
+744,"Loxodonta_africana",FALSE,"non-numeric argument to binary operator"
+745,"Canis_familiaris",FALSE,"non-numeric argument to binary operator"
+746,"Otolemur_garnettii",FALSE,"non-numeric argument to binary operator"
+747,"Monodelphis_domestica",FALSE,"non-numeric argument to binary operator"
+748,"Felis_catus",TRUE,NA
+749,"Gorilla_gorilla",FALSE,"non-numeric argument to binary operator"
+750,"Macaca_nemestrina",TRUE,NA
+751,"Peromyscus_maniculatus_bairdii",FALSE,"non-numeric argument to binary operator"
+752,"Myotis_lucifugus",FALSE,"non-numeric argument to binary operator"
+753,"Canis_familiaris",FALSE,"non-numeric argument to binary operator"
+754,"Gorilla_gorilla",FALSE,"non-numeric argument to binary operator"
+755,"Oryctolagus_cuniculus",FALSE,"non-numeric argument to binary operator"
+756,"Homo_sapiens",FALSE,"non-numeric argument to binary operator"
+757,"Phascolarctos_cinereus",FALSE,"non-numeric argument to binary operator"
+758,"Capra_hircus",TRUE,NA
+759,"Nomascus_leucogenys",FALSE,"non-numeric argument to binary operator"
+760,"Felis_catus",TRUE,NA
+761,"Mustela_putorius_furo",FALSE,"non-numeric argument to binary operator"
+762,"Cebus_capucinus_imitator",TRUE,NA
+763,"Saimiri_boliviensis_boliviensis",FALSE,"non-numeric argument to binary operator"
+764,"Monodelphis_domestica",FALSE,"non-numeric argument to binary operator"
+765,"Macaca_fascicularis",TRUE,NA
+766,"Tursiops_truncatus",TRUE,NA
+767,"Dasypus_novemcinctus",FALSE,"non-numeric argument to binary operator"
+768,"Callithrix_jacchus",FALSE,"non-numeric argument to binary operator"
+769,"Pan_troglodytes",FALSE,"non-numeric argument to binary operator"
+770,"Dasypus_novemcinctus",FALSE,"non-numeric argument to binary operator"
+771,"Pan_paniscus",TRUE,NA
+772,"Phascolarctos_cinereus",FALSE,"non-numeric argument to binary operator"
+773,"Macaca_mulatta",TRUE,NA
+774,"Macaca_fascicularis",TRUE,NA
+775,"Ictidomys_tridecemlineatus",FALSE,"non-numeric argument to binary operator"
+776,"Equus_caballus",FALSE,"non-numeric argument to binary operator"
+777,"Tursiops_truncatus",TRUE,NA
+778,"Dasypus_novemcinctus",FALSE,"non-numeric argument to binary operator"
+779,"Otolemur_garnettii",FALSE,"non-numeric argument to binary operator"
+780,"Gorilla_gorilla",FALSE,"non-numeric argument to binary operator"
+781,"Neovison_vison",TRUE,NA
+782,"Pan_troglodytes",FALSE,"non-numeric argument to binary operator"
+783,"Nomascus_leucogenys",FALSE,"non-numeric argument to binary operator"
+784,"Vombatus_ursinus",FALSE,"non-numeric argument to binary operator"
+785,"Peromyscus_maniculatus_bairdii",FALSE,"non-numeric argument to binary operator"
+786,"Peromyscus_maniculatus_bairdii",FALSE,"non-numeric argument to binary operator"
+787,"Otolemur_garnettii",FALSE,"non-numeric argument to binary operator"
+788,"Colobus_angolensis_palliatus",TRUE,NA
+789,"Vombatus_ursinus",FALSE,"non-numeric argument to binary operator"
+790,"Loxodonta_africana",FALSE,"non-numeric argument to binary operator"
+791,"Papio_anubis",TRUE,NA
+792,"Callithrix_jacchus",FALSE,"non-numeric argument to binary operator"
+793,"Cebus_capucinus_imitator",TRUE,NA
+794,"Vombatus_ursinus",FALSE,"non-numeric argument to binary operator"
+795,"Ovis_aries",FALSE,"non-numeric argument to binary operator"
+796,"Microcebus_murinus",FALSE,"non-numeric argument to binary operator"
+797,"Felis_catus",TRUE,NA
+798,"Loxodonta_africana",FALSE,"non-numeric argument to binary operator"
+799,"Chinchilla_lanigera",FALSE,"non-numeric argument to binary operator"
+800,"Homo_sapiens",FALSE,"non-numeric argument to binary operator"
+801,"Microtus_ochrogaster",FALSE,"non-numeric argument to binary operator"
+802,"Nomascus_leucogenys",FALSE,"non-numeric argument to binary operator"
+803,"Mus_musculus",FALSE,"non-numeric argument to binary operator"
+804,"Gorilla_gorilla",FALSE,"non-numeric argument to binary operator"
+805,"Macaca_nemestrina",TRUE,NA
+806,"Microtus_ochrogaster",FALSE,"non-numeric argument to binary operator"
+807,"Panthera_pardus",TRUE,NA
+808,"Vombatus_ursinus",FALSE,"non-numeric argument to binary operator"
+809,"Octodon_degus",FALSE,"non-numeric argument to binary operator"
+810,"Microcebus_murinus",FALSE,"non-numeric argument to binary operator"
+811,"Canis_familiaris",FALSE,"non-numeric argument to binary operator"
+812,"Cebus_capucinus_imitator",TRUE,NA
+813,"Macaca_mulatta",TRUE,NA
+814,"Meriones_unguiculatus",FALSE,"non-numeric argument to binary operator"
+815,"Macaca_nemestrina",TRUE,NA
+816,"Macaca_nemestrina",TRUE,NA
+817,"Sus_scrofa",FALSE,"non-numeric argument to binary operator"
+818,"Rattus_norvegicus",FALSE,"non-numeric argument to binary operator"
+819,"Bos_taurus",FALSE,"non-numeric argument to binary operator"
+820,"Rattus_norvegicus",FALSE,"non-numeric argument to binary operator"
+821,"Felis_catus",TRUE,NA
+822,"Sus_scrofa",FALSE,"non-numeric argument to binary operator"
+823,"Pan_paniscus",TRUE,NA
+824,"Otolemur_garnettii",FALSE,"non-numeric argument to binary operator"
+825,"Phascolarctos_cinereus",FALSE,"non-numeric argument to binary operator"
+826,"Callithrix_jacchus",FALSE,"non-numeric argument to binary operator"
+827,"Octodon_degus",FALSE,"non-numeric argument to binary operator"
+828,"Oryctolagus_cuniculus",FALSE,"non-numeric argument to binary operator"
+829,"Loxodonta_africana",FALSE,"non-numeric argument to binary operator"
+830,"Gorilla_gorilla",FALSE,"non-numeric argument to binary operator"
+831,"Microcebus_murinus",FALSE,"non-numeric argument to binary operator"
+832,"Ictidomys_tridecemlineatus",FALSE,"non-numeric argument to binary operator"
+833,"Saimiri_boliviensis_boliviensis",FALSE,"non-numeric argument to binary operator"
+834,"Colobus_angolensis_palliatus",TRUE,NA
+835,"Microtus_ochrogaster",FALSE,"non-numeric argument to binary operator"
+836,"Ictidomys_tridecemlineatus",FALSE,"non-numeric argument to binary operator"
+837,"Macaca_mulatta",TRUE,NA
+838,"Saimiri_boliviensis_boliviensis",FALSE,"non-numeric argument to binary operator"
+839,"Heterocephalus_glaber",FALSE,"non-numeric argument to binary operator"
+840,"Cavia_porcellus",FALSE,"non-numeric argument to binary operator"
+841,"Phascolarctos_cinereus",FALSE,"non-numeric argument to binary operator"
+842,"Mus_musculus",FALSE,"non-numeric argument to binary operator"
+843,"Microcebus_murinus",FALSE,"non-numeric argument to binary operator"
+844,"Nomascus_leucogenys",FALSE,"non-numeric argument to binary operator"
+845,"Microcebus_murinus",FALSE,"non-numeric argument to binary operator"
+846,"Meriones_unguiculatus",FALSE,"non-numeric argument to binary operator"
+847,"Loxodonta_africana",FALSE,"non-numeric argument to binary operator"
+848,"Ailuropoda_melanoleuca",TRUE,NA
+849,"Colobus_angolensis_palliatus",TRUE,NA
+850,"Equus_caballus",FALSE,"non-numeric argument to binary operator"
+851,"Tursiops_truncatus",TRUE,NA
+852,"Neovison_vison",TRUE,NA
+853,"Oryctolagus_cuniculus",FALSE,"non-numeric argument to binary operator"
+854,"Microtus_ochrogaster",FALSE,"non-numeric argument to binary operator"
+855,"Saimiri_boliviensis_boliviensis",FALSE,"non-numeric argument to binary operator"
+856,"Ovis_aries",FALSE,"non-numeric argument to binary operator"
+857,"Dasypus_novemcinctus",FALSE,"non-numeric argument to binary operator"
+858,"Bos_taurus",FALSE,"non-numeric argument to binary operator"
+859,"Macaca_nemestrina",TRUE,NA
+860,"Nomascus_leucogenys",FALSE,"non-numeric argument to binary operator"
+861,"Equus_asinus_asinus",FALSE,"non-numeric argument to binary operator"
+862,"Pan_paniscus",TRUE,NA
+863,"Cebus_capucinus_imitator",TRUE,NA
+864,"Equus_caballus",FALSE,"non-numeric argument to binary operator"
+865,"Neovison_vison",TRUE,NA
+866,"Loxodonta_africana",FALSE,"non-numeric argument to binary operator"
+867,"Macaca_mulatta",TRUE,NA
+868,"Papio_anubis",TRUE,NA
+869,"Capra_hircus",TRUE,NA
+870,"Otolemur_garnettii",FALSE,"non-numeric argument to binary operator"
+871,"Vulpes_vulpes",FALSE,"non-numeric argument to binary operator"
+872,"Heterocephalus_glaber",FALSE,"non-numeric argument to binary operator"
+873,"Gorilla_gorilla",FALSE,"non-numeric argument to binary operator"
+874,"Chinchilla_lanigera",FALSE,"non-numeric argument to binary operator"
+875,"Bos_taurus",FALSE,"non-numeric argument to binary operator"
+876,"Panthera_pardus",TRUE,NA
+877,"Microcebus_murinus",FALSE,"non-numeric argument to binary operator"
+878,"Saimiri_boliviensis_boliviensis",FALSE,"non-numeric argument to binary operator"
+879,"Oryctolagus_cuniculus",FALSE,"non-numeric argument to binary operator"
+880,"Macaca_fascicularis",TRUE,NA
+881,"Felis_catus",TRUE,NA
+882,"Neovison_vison",TRUE,NA
+883,"Macaca_fascicularis",TRUE,NA
+884,"Macaca_fascicularis",TRUE,NA
+885,"Neovison_vison",TRUE,NA
+886,"Cebus_capucinus_imitator",TRUE,NA
+887,"Macaca_mulatta",TRUE,NA
+888,"Pan_troglodytes",FALSE,"non-numeric argument to binary operator"
+889,"Capra_hircus",TRUE,NA
+890,"Equus_caballus",FALSE,"non-numeric argument to binary operator"
+891,"Saimiri_boliviensis_boliviensis",FALSE,"non-numeric argument to binary operator"
+892,"Myotis_lucifugus",FALSE,"non-numeric argument to binary operator"
+893,"Cavia_porcellus",FALSE,"non-numeric argument to binary operator"
+894,"Sus_scrofa",FALSE,"non-numeric argument to binary operator"
+895,"Macaca_nemestrina",TRUE,NA
+896,"Microtus_ochrogaster",FALSE,"non-numeric argument to binary operator"
+897,"Macaca_nemestrina",TRUE,NA
+898,"Macaca_mulatta",TRUE,NA
+899,"Mus_musculus",FALSE,"non-numeric argument to binary operator"
+900,"Nomascus_leucogenys",FALSE,"non-numeric argument to binary operator"
+901,"Papio_anubis",TRUE,NA
+902,"Equus_caballus",FALSE,"non-numeric argument to binary operator"
+903,"Macaca_mulatta",TRUE,NA
+904,"Panthera_pardus",TRUE,NA
+905,"Pan_troglodytes",FALSE,"non-numeric argument to binary operator"
+906,"Vombatus_ursinus",FALSE,"non-numeric argument to binary operator"
+907,"Dasypus_novemcinctus",FALSE,"non-numeric argument to binary operator"
+908,"Panthera_pardus",TRUE,NA
+909,"Macaca_nemestrina",TRUE,NA
+910,"Loxodonta_africana",FALSE,"non-numeric argument to binary operator"
+911,"Colobus_angolensis_palliatus",TRUE,NA
+912,"Nomascus_leucogenys",FALSE,"non-numeric argument to binary operator"
+913,"Equus_asinus_asinus",FALSE,"non-numeric argument to binary operator"
+914,"Ailuropoda_melanoleuca",TRUE,NA
+915,"Nomascus_leucogenys",FALSE,"non-numeric argument to binary operator"
+916,"Nomascus_leucogenys",FALSE,"non-numeric argument to binary operator"
+917,"Macaca_nemestrina",TRUE,NA
+918,"Equus_caballus",FALSE,"non-numeric argument to binary operator"
+919,"Pan_troglodytes",FALSE,"non-numeric argument to binary operator"
+920,"Cavia_porcellus",FALSE,"non-numeric argument to binary operator"
+921,"Capra_hircus",TRUE,NA
+922,"Ovis_aries",FALSE,"non-numeric argument to binary operator"
+923,"Sus_scrofa",FALSE,"non-numeric argument to binary operator"
+924,"Macaca_mulatta",TRUE,NA
+925,"Microtus_ochrogaster",FALSE,"non-numeric argument to binary operator"
+926,"Mustela_putorius_furo",FALSE,"non-numeric argument to binary operator"
+927,"Ailuropoda_melanoleuca",TRUE,NA
+928,"Oryctolagus_cuniculus",FALSE,"non-numeric argument to binary operator"
+929,"Ailuropoda_melanoleuca",TRUE,NA
+930,"Monodelphis_domestica",FALSE,"non-numeric argument to binary operator"
+931,"Peromyscus_maniculatus_bairdii",FALSE,"non-numeric argument to binary operator"
+932,"Mus_musculus",FALSE,"non-numeric argument to binary operator"
+933,"Colobus_angolensis_palliatus",TRUE,NA
+934,"Monodelphis_domestica",FALSE,"non-numeric argument to binary operator"
+935,"Colobus_angolensis_palliatus",TRUE,NA
+936,"Capra_hircus",TRUE,NA
+937,"Bos_taurus",FALSE,"non-numeric argument to binary operator"
+938,"Sus_scrofa",FALSE,"non-numeric argument to binary operator"
+939,"Tursiops_truncatus",TRUE,NA
+940,"Cebus_capucinus_imitator",TRUE,NA
+941,"Mus_musculus",FALSE,"non-numeric argument to binary operator"
+942,"Vulpes_vulpes",FALSE,"non-numeric argument to binary operator"
+943,"Capra_hircus",TRUE,NA
+944,"Mustela_putorius_furo",FALSE,"non-numeric argument to binary operator"
+945,"Equus_asinus_asinus",FALSE,"non-numeric argument to binary operator"
+946,"Ailuropoda_melanoleuca",TRUE,NA
+947,"Macaca_nemestrina",TRUE,NA
+948,"Cavia_porcellus",FALSE,"non-numeric argument to binary operator"
+949,"Nomascus_leucogenys",FALSE,"non-numeric argument to binary operator"
+950,"Equus_caballus",FALSE,"non-numeric argument to binary operator"
+951,"Macaca_nemestrina",TRUE,NA
+952,"Mustela_putorius_furo",FALSE,"non-numeric argument to binary operator"
+953,"Ovis_aries",FALSE,"non-numeric argument to binary operator"
+954,"Ailuropoda_melanoleuca",TRUE,NA
+955,"Meriones_unguiculatus",FALSE,"non-numeric argument to binary operator"
+956,"Vombatus_ursinus",FALSE,"non-numeric argument to binary operator"
+957,"Otolemur_garnettii",FALSE,"non-numeric argument to binary operator"
+958,"Myotis_lucifugus",FALSE,"non-numeric argument to binary operator"
+959,"Macaca_mulatta",TRUE,NA
+960,"Meriones_unguiculatus",FALSE,"non-numeric argument to binary operator"
+961,"Chinchilla_lanigera",FALSE,"non-numeric argument to binary operator"
+962,"Sus_scrofa",FALSE,"non-numeric argument to binary operator"
+963,"Pan_troglodytes",FALSE,"non-numeric argument to binary operator"
+964,"Papio_anubis",TRUE,NA
+965,"Papio_anubis",TRUE,NA
+966,"Meriones_unguiculatus",FALSE,"non-numeric argument to binary operator"
+967,"Sus_scrofa",FALSE,"non-numeric argument to binary operator"
+968,"Peromyscus_maniculatus_bairdii",FALSE,"non-numeric argument to binary operator"
+969,"Microcebus_murinus",FALSE,"non-numeric argument to binary operator"
+970,"Chinchilla_lanigera",FALSE,"non-numeric argument to binary operator"
+971,"Canis_familiaris",FALSE,"non-numeric argument to binary operator"
+972,"Cavia_porcellus",FALSE,"non-numeric argument to binary operator"
+973,"Myotis_lucifugus",FALSE,"non-numeric argument to binary operator"
+974,"Otolemur_garnettii",FALSE,"non-numeric argument to binary operator"
+975,"Heterocephalus_glaber",FALSE,"non-numeric argument to binary operator"
+976,"Nomascus_leucogenys",FALSE,"non-numeric argument to binary operator"
+977,"Mus_musculus",FALSE,"non-numeric argument to binary operator"
+978,"Microtus_ochrogaster",FALSE,"non-numeric argument to binary operator"
+979,"Microtus_ochrogaster",FALSE,"non-numeric argument to binary operator"
+980,"Rattus_norvegicus",FALSE,"non-numeric argument to binary operator"
+981,"Phascolarctos_cinereus",FALSE,"non-numeric argument to binary operator"
+982,"Mustela_putorius_furo",FALSE,"non-numeric argument to binary operator"
+983,"Equus_caballus",FALSE,"non-numeric argument to binary operator"
+984,"Tursiops_truncatus",TRUE,NA
+985,"Equus_caballus",FALSE,"non-numeric argument to binary operator"
+986,"Papio_anubis",TRUE,NA
+987,"Tursiops_truncatus",TRUE,NA
+988,"Monodelphis_domestica",FALSE,"non-numeric argument to binary operator"
+989,"Cavia_porcellus",FALSE,"non-numeric argument to binary operator"
+990,"Canis_familiaris",FALSE,"non-numeric argument to binary operator"
+991,"Bos_taurus",FALSE,"non-numeric argument to binary operator"
+992,"Nomascus_leucogenys",FALSE,"non-numeric argument to binary operator"
+993,"Microtus_ochrogaster",FALSE,"non-numeric argument to binary operator"
+994,"Mus_musculus",FALSE,"non-numeric argument to binary operator"
+995,"Meriones_unguiculatus",FALSE,"non-numeric argument to binary operator"
+996,"Peromyscus_maniculatus_bairdii",FALSE,"non-numeric argument to binary operator"
+997,"Ailuropoda_melanoleuca",TRUE,NA
+998,"Oryctolagus_cuniculus",FALSE,"non-numeric argument to binary operator"
+999,"Otolemur_garnettii",FALSE,"non-numeric argument to binary operator"
+1000,"Sus_scrofa",FALSE,"non-numeric argument to binary operator"

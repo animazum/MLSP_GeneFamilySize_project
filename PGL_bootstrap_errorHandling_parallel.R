@@ -201,13 +201,17 @@ print("change always the ulimit of the computer $ulimit -s 21000 !!!!!!!!!!!!")
 
 path1<- getwd()
 
+listPostbusco<- read.csv("/Users/lisalisa/Library/CloudStorage/Dropbox/kilili_shared_project/MLSP_GeneFamilySize_project/Datos/species_names_46.csv")
+
 Nombre.file<-c(paste(path1,"/Datos/traits_albus_61spp.csv", sep = ""))
 traits.filtered<-read.csv(Nombre.file, stringsAsFactors = F)
+traits.filtered<- traits.filtered[traits.filtered$Spp.Name %in% listPostbusco$Species_Name,]
 tree <-read.tree(paste(path1,"/Datos/tree_albus_61spp.tree", sep = ""))
 
 #*************   IT IS IMPORTANT TO HAVE THE SAME SPP ORDER BETWEEN TRAITS AND GENE NUMBERSS!!!!!!!   ********###
 gene.numbers.filtered <- read.csv(paste(path1,"/Datos/gene_numbers_albus_61spp.csv", sep = ""),header = T, row.names = 1)
 dirSave <- paste(getwd(), "/Results_bootstrap", sep = "")
+
 
 result <- PGLS.GF.size.parallel(
   traits = traits.filtered,

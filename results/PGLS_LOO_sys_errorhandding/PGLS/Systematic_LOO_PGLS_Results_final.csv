@@ -1,0 +1,4 @@
+"Iteration","Removed_Species","Success","Error_Message"
+1,"Ailuropoda_melanoleuca",FALSE,"unused argument (IDnameGC = iter_id)"
+2,"Bos_taurus",FALSE,"unused argument (IDnameGC = iter_id)"
+3,"Callithrix_jacchus",FALSE,"unused argument (IDnameGC = iter_id)"

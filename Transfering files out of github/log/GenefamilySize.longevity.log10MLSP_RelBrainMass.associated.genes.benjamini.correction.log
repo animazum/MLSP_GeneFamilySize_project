@@ -1,0 +1,91 @@
+========================================================================= 
+Log Path: /Users/mona/Library/CloudStorage/Dropbox/kilili_shared_project/MLSP_GeneFamilySize_project/log/GenefamilySize.longevity.log10MLSP_RelBrainMass.associated.genes.benjamini.correction.log 
+Working Directory: /Users/mona/Library/CloudStorage/Dropbox/kilili_shared_project/MLSP_GeneFamilySize_project 
+User Name: mona 
+R Version: 4.3.3 (2024-02-29) 
+Machine: 172-26-113-129.eduroam.bath.ac.uk x86_64 
+Operating System: Darwin 24.3.0 Darwin Kernel Version 24.3.0: Thu Jan 2 20:22:00 PST 2025; root:xnu-11215.81.4~3/RELEASE_X86_64 
+Base Packages: parallel stats graphics grDevices utils datasets methods base 
+Other Packages: reshape_0.8.9 nlme_3.1-164 ape_5.7-1 ggpubr_0.6.0 ggplot2_3.5.0 dplyr_1.1.4 logr_1.3.6 
+Log Start Time: 2025-02-10 13:36:00.588785 
+========================================================================= 
+
+3120 
+
+NOTE: Log Print Time:  2025-02-10 13:36:10.672793 
+NOTE: Elapsed Time: 10.0811989307404 secs 
+
+All the spp most have at least the number of genes designated by the treshold: 2808 genes 
+
+Which spp or columns were removed? 
+
+You have 46 spp that passed the genome completness filter 
+
+#### Jackpot! Now we have finished the filtering to know if the genomes used are complete #### 
+
+The dataframe gene_numbers was created 
+
+The filtering.90.1 object was created 
+
+File nearly.universal.90.percent.90ssp.treshold.csv was created created 
+
+NOTE: Log Print Time:  2025-02-10 13:36:10.72615 
+NOTE: Elapsed Time: 0.0533571243286133 secs 
+
+The file Total.counts.46spp.csv was created 
+
+NOTE: Log Print Time:  2025-02-10 13:36:11.028991 
+NOTE: Elapsed Time: 0.302840948104858 secs 
+
+*********************************************************** 
+
+****Spp missing in traits but present in gene.numbers:**** 
+
+*********************************************************** 
+
+character(0)
+
+NOTE: Log Print Time:  2025-02-10 13:36:12.025338 
+NOTE: Elapsed Time: 0.996346950531006 secs 
+
+*********************************************************** 
+
+****Spp missing in gene.numbers but present in traits:**** 
+
+*********************************************************** 
+
+character(0)
+
+NOTE: Log Print Time:  2025-02-10 13:36:12.02687 
+NOTE: Elapsed Time: 0.00153207778930664 secs 
+
+**************************************************************************** 
+
+Removing the orthogroups (gene families) that have 0 genes in 20% of the spp 
+
+**************************************************************************** 
+
+************************************************************ 
+
+Removing any orthogroupos (gene families) with variance of 0 
+
+************************************************************ 
+
+**************************************************************************** 
+
+Removing orthogroups (gene families) of 1 gene or less present in only 1 spp 
+
+***************************************************************************** 
+
+The file Filtered.GeneNum.log10MLSP.csv was created 
+
+NOTE: Log Print Time:  2025-02-10 13:36:12.347972 
+NOTE: Elapsed Time: 0.321101903915405 secs 
+
+You have 4136 gene families to input the PGLS 
+
+Error in Bootstrap_LTO_PGLS(traits = traits.filtered, pheno.col.nums = c(12, : could not find function "Bootstrap_LTO_PGLS" 
+========================================================================= 
+Log End Time: 2025-02-10 13:36:33.236374 
+Log Elapsed Time: 0 00:00:32 
+========================================================================= 

@@ -107,7 +107,7 @@ analyze_pgls_bootstrap <- function(file_path) {
 
 
 # Analyze the results
-results_analysis <- analyze_pgls_bootstrap("PGLS_bootstrap_summary.rds")
+results_analysis <- analyze_pgls_bootstrap("Results_bootstrap/PGLS_bootstrap_summary.rds")
 
 # Access the summary statistics
 summary_stats <- results_analysis$summary_stats
